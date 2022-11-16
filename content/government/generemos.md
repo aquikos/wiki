@@ -16,7 +16,8 @@ Organization (within the Chamber)
 
 ## History
 
-The Générémós was created alongside the Liran Republic, and has lasted ever since. 
+The Générémós was created alongside the Liran Republic, and has lasted ever since.
+It is equivalent to a national parliament, and consists of a 144 member body. 
 
 ## Election Procedures
 
@@ -39,9 +40,10 @@ been given their baseline amount of seats. From there, State 7 theoretically had
 had 18.668 seats, meaning they got the next extra seat. 
 
 ## Current Membership
-![3660 Election Results](/images/3660_liran_national_parliament_makeup.svg)
+![3660 Election Results](/wiki/images/3660_liran_national_parliament_makeup.svg)
 
 {{< article link="/wiki/government/liran_political_parties/" >}}
-Each party, and a short description of the party, is listed below in order from largest to smallest.
+
+
 
 
