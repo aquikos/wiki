@@ -41,7 +41,7 @@ had 18.668 seats, meaning they got the next extra seat.
 ## Current Membership
 ![3660 Election Results](/images/3660_liran_national_parliament_makeup.svg)
 
-{{< article link="/government/liran_political_parties/" >}}
+{{< article link="/wiki/government/liran_political_parties/" >}}
 Each party, and a short description of the party, is listed below in order from largest to smallest.
 
 
