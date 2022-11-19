@@ -116,7 +116,7 @@ for k, v in enumerate(state_data):
 ### Current Membership
 ![3660 Election Results](/wiki/images/3660_liran_national_parliament_makeup.svg)
 
-{{< article link="/wiki/government/liran_political_parties/" >}}
+{{< article link="/wiki/government/liran-political-parties/" >}}
 
 
 
