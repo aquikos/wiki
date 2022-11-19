@@ -1,5 +1,5 @@
 ---
 title: "Language"
 layout: "list"
-url: "/wiki/language/
+url: "/wiki/language/"
 ---
