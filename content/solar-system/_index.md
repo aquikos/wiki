@@ -1,5 +1,5 @@
 ---
 title: "Solar System"
 layout: "list"
-url: "/wiki/solar-system/"
+url: "/wiki/solar-system"
 ---
