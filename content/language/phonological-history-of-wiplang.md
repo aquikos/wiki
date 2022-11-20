@@ -2,7 +2,7 @@
 title: "Phonological History of Wiplang"
 ---
 
-<pre>
+<code>
 Feature type(*cons, vowel)
 
 Feature place(labial, alveolar, postalveolar, palatal, velar, uvular, glottal)
@@ -154,6 +154,10 @@ monophthongization2:
   {ʌɯ, əɯ} => ʌ
   {ɔu, əu} => ɔ
 
+semivowel-drop:
+  {ij, yɥ, uw} => {i, y, u} / _ {$, [cons]}
+  {j, ɥ, w} => {i, y, u} / [vowel] _
+
 nasalization:
   [vowel] [nasal] => [nasalized vowel] * / _ {[cons], $}
 
@@ -246,6 +250,8 @@ post-shifts:
   Then:
   {ii, yy, uu} => {iː, yː, uː}
   {iy, iu, ui, uy, yi, yu} => {yː}
+  [voiced plosive] [voiceless] => [voiceless] 
+  [voiced fricative] [voiceless] => [voiceless]
 
 vowel-shifts2:
   [vowel] {iː, yː, uː} => [vowel] {i, y, u}
@@ -267,7 +273,7 @@ h-shifts:
   {i, {y, u}, e, {ø, o}, ɛ, {œ, ɔ}, a} h => {iː, uː, eː, oː, ɛː, ɔː, ɑː} * / _ {[cons], $}
 
 vowel-breaking:
-  {e, ø, o} => {ie, yø, uo} / _ [cons]
+  {e, ø, o} => {ie, yø, uo} / _ [cons] // {[lateral], [tap], [trill], [approximant]} _
   {ɛ, œ, ɔ} => {e, ø, o}
 
 misc-shifts:
@@ -285,4 +291,4 @@ unrounding2:
 
 semi-shift:
   {i, u} => {j, w} / _ [vowel]
-</pre>
+</code>

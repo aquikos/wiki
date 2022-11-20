@@ -65,12 +65,10 @@ This very regular stress often leads to an "up and down" sound to the language, 
 
 ## Orthography
 
-Modern Liran has a mostly phonetic romanization, with only a few diphthongs straying away.
-Letters written with breves may have the breve omitted, as the acute is the only completely required diacritic.
-The only instances where the breve is required are in the diphthongs ⟨ăi⟩ and ⟨ău⟩, which are pronounced /e/ and /o/, respectively.
-Written without the breves, ⟨ai⟩ and ⟨au⟩, they would be /ei/ and /ou/.
-This distinction has led to the development of a new method of writing ⟨ai⟩ and ⟨au⟩ as ⟨ái⟩ and ⟨áu⟩, and omitting the breve from writing entirely.
-In addition to this standard, there is also a movement to update the spellings of every word to match its pronunciation, but this has yet to gain enough traction to succeed. 
+Modern Liran has a fully phonetic romanization. 
+Most sounds are represented with their latin equivalent, but exceptions are listed below.
+Only one diacritic is used, the acute, and it is always necessary except in diphthongs.
+In best practice, however, it should always be used, despite the lack of distinction.
 
 |  IPA | Romanization |
 |:----:|:------------:|
@@ -78,7 +76,7 @@ In addition to this standard, there is also a movement to update the spellings o
 |   j  |       y      |
 |   ɾ  |       r      |
 | e, o |     é, ó     |
-| ɛ, ɔ |     ĕ, ŏ     |
-|   ə  |       ă      |
+| ɛ, ɔ |     e, e     |
+|   ə  |       a      |
 
 
