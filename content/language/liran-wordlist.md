@@ -31,11 +31,11 @@ This page is currently under construction, so it may not be formatted properly y
 
 ##### Etymology
 
-&emsp;From Proto-Daimarian *, meaning "".
+&emsp;From Proto-Daimarian *dizim, meaning "to laugh, to cackle".
 
 ##### Noun
 
-&emsp;. Nerd, geek.
+&emsp;1. Nerd, geek.
 
 
 ### ré
@@ -937,6 +937,10 @@ From Proto-Daimarian *s'in, meaning "".
 ##### Numeral
 
 &emsp;1. One.
+
+##### Article
+
+&emsp;1. A(n) (Indefinite Article)
 
 
 
