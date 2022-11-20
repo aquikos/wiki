@@ -32,8 +32,8 @@ Because this number is unlikely to be an integer, and because only so many seats
 
 |         | Population | Overflow | Seats | Extra Seat? |
 |:-------:|:----------:|:--------:|:-----:|:-----------:|
-|  Kenemo |   31.56m   |   0.450  |   34  |      No     |
-| State 2 |   22.43m   |   0.484  |   24  |      No     |
+|  Kenemó |   31.56m   |   0.450  |   34  |      No     |
+|  Daimó  |   22.43m   |   0.484  |   24  |      No     |
 | State 3 |   17.10m   |   0.666  |   19  |     Yes     |
 | State 4 |   14.99m   |   0.363  |   16  |      No     |
 | State 5 |   12.01m   |   0.110  |   13  |      No     |
