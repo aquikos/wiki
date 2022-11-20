@@ -15,7 +15,7 @@ This page is currently under construction, so it may not be formatted properly y
 
 ##### Etymology
 
-&emsp;From Proto-Daimarian *'osmaghrur, meaning high or large, at least in the sense of height.
+&emsp;From Proto-Daimarian *osmaghrur, meaning high or large, at least in the sense of height.
     
 ##### Adjective
 
