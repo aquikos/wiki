@@ -7,1157 +7,1340 @@ The list may not always be exhaustive, but it should be mostly up-to-date.
 
 This page is currently under construction, so it may not be formatted properly yet.
 
-####  émaru
+###  émaru
 
-    Pronunciation 
+##### Pronunciation 
     
-        /emaɾu/
+    /emaɾu/
 
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *'osmaghrur, meaning high or large, at least in the sense of height.
+    From Proto-Daimarian *'osmaghrur, meaning high or large, at least in the sense of height.
     
-    Adjective
+##### Adjective
 
-        1. Chief, head, leader
+    1. Chief, head, leader
 
-            généré **émarum** (Chief Généré)
+        généré **émarum** (Chief Généré)
 
-#### zeri
 
-    Pronunciation
 
-        /zɛɾi/
+### zeri
 
-    Etymology
+##### Pronunciation
 
-        From Proto-Daimarian *, meaning "".
+    /zɛɾi/
 
-#### ré
+##### Etymology
 
-    Pronunciation
+    From Proto-Daimarian *, meaning "".
 
-        /ɾe/
+
+
+### ré
+
+##### Pronunciation
+
+    /ɾe/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *reŋ, meaning "this, that".
 
-        From Proto-Daimarian *reŋ, meaning "this, that".
+##### Article
 
-    Article
+    1. the (Definite Article)
 
-        1. the (Definite Article)
 
-#### -ré
 
-    Pronunciation
+### -ré
 
-        /ɾe/
+##### Pronunciation
+
+    /ɾe/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *, meaning .
 
-        From Proto-Daimarian *, meaning .
+##### Suffix
 
-    Suffix
+    1. Used to form nouns from verbs. Typically denotes a place where the given verb takes place.
 
-        1. Used to form nouns from verbs. Typically denotes a place where the given verb takes place.
 
-#### bóu
 
-    Pronunciation
+### bóu
 
-        /bou/
+##### Pronunciation
+
+    /bou/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *pel, meaning "to wish, to desire".
 
-        From Proto-Daimarian *pel, meaning "to wish, to desire".
+##### Auxiliary Verb
 
-    Auxiliary Verb
+    1. Subjunctive modal auxiliary verb. 
 
-        1. Subjunctive modal auxiliary verb. 
 
-#### ézó
 
-    Pronunciation
+### ézó
 
-        /ezo/
+##### Pronunciation
+
+    /ezo/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *xendos, meaning "to be able.
 
-        From Proto-Daimarian *xendos, meaning "to be able.
+##### Auxiliary Verb
 
-    Auxiliary Verb
+    1. Potential modal auxiliary verb.
 
-        1. Potential modal auxiliary verb.
 
-#### xa
 
-    Pronunciation
+### xa
 
-        /ʃa/
+##### Pronunciation
+
+    /ʃa/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *k'es, meaning "in addition, also, too".
 
-        From Proto-Daimarian *k'es, meaning "in addition, also, too".
+##### Adverb
 
-    Adverb
+    1. too, also, as well.
 
-        1. too, also, as well.
 
-#### di
 
-    Pronunciation
+### di
 
-        /di/
+##### Pronunciation
+
+    /di/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *tim, meaning "and".
 
-        From Proto-Daimarian *tim, meaning "and".
+##### Conjunction
 
-    Conjunction
+    1. and
 
-        1. and
 
-#### méi
 
-    Pronunciation
+### méi
 
-        /mei/
+##### Pronunciation
+
+    /mei/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *miwda, meaning "to build, to cover, to conceal".
+
+##### Noun
 
-        From Proto-Daimarian *miwda, meaning "to build, to cover, to conceal".
+    1. house, shelter, building.
 
-    Noun
 
-        1. house, shelter, building.
 
-#### éu
+### éu
 
-    Pronunciation
+##### Pronunciation
 
-        /eu/
+    /eu/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *ghil, meaning "I".
+    From Proto-Daimarian *ghil, meaning "I".
 
-    Pronoun
+##### Pronoun
 
-        1. I (First person singular pronoun).
+    1. I (First person singular pronoun).
 
-#### tóu
 
-    Pronunciation
 
-        /tou/
+### tóu
+
+##### Pronunciation
+
+    /tou/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *t'eb, meaning "we".
+
+##### Pronoun
 
-        From Proto-Daimarian *t'eb, meaning "we".
+    1. We (First person plural pronoun).
 
-    Pronoun
 
-        1. We (First person plural pronoun).
 
-#### mé
+### mé
 
-    Pronunciation
+##### Pronunciation
 
-        /me/
+    /me/
     
-    Etymology 1
+##### Etymology 1
 
-        From Proto-Daimarian *mej, meaning "you".
+    From Proto-Daimarian *mej, meaning "you".
 
-    Pronoun 
+##### Pronoun 
 
-        1. You (Second person singular pronoun).
+    1. You (Second person singular pronoun).
     
-    <!---
-    Etymology 2
+    
+##### Etymology 2
+
+    From Proto-Daimarian *magh, meaning .
 
-        From Proto-Daimarian *magh, meaning .
-    --->
 
-#### éi
 
-    Pronunciation
+### éi
 
-        /ei/
+##### Pronunciation
+
+    /ei/
     
-    Etymology 1
+##### Etymology 1
 
-        From Proto-Daimarian *jog, meaning "you".
+    From Proto-Daimarian *jog, meaning "you".
 
-    Pronoun
+##### Pronoun
 
-        1. You (Second person plural pronoun)
+    1. You (Second person plural pronoun)
 
-    Etymology 2
+##### Etymology 2
 
-        From Proto-Daimarian *wem, meaning "two".
+    From Proto-Daimarian *wem, meaning "two".
     
-    Numeral
+##### Numeral
+
+    1. Two
 
-        1. Two
 
-#### de
 
-    Pronunciation
+### de
 
-        /dɛ/
+##### Pronunciation
+
+    /dɛ/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *tek, meaning "he, she, they".
 
-        From Proto-Daimarian *tek, meaning "he, she, they".
+##### Pronoun
 
-    Pronoun
+    1. He, she, they (Third person singular pronoun).
 
-        1. He, she, they (Third person singular pronoun).
 
-#### u
 
-    Pronunciation
+### u
 
-        /u/
+##### Pronunciation
+
+    /u/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *vu, meaning "they".
 
-        From Proto-Daimarian *vu, meaning "they".
+##### Pronoun
 
-    Pronoun
+    1. They (Third person plural pronoun).
 
-        1. They (Third person plural pronoun).
 
-#### li
 
-    Pronunciation
+### li
 
-        /li/
+##### Pronunciation
+
+    /li/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *lim, meaning "person, human".
+
+##### Noun
 
-        From Proto-Daimarian *lim, meaning "person, human".
+    1. A (liran) person.
 
-    Noun
 
-        1. A (liran) person.
 
-#### réu
+### réu
 
-    Pronunciation
+##### Pronunciation
 
-        /ɾeu/
+    /ɾeu/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *rakal, meaning "tongue".
+    From Proto-Daimarian *rakal, meaning "tongue".
 
-    Noun
+##### Noun
 
-        1. Language, tongue
+    1. Language, tongue
 
-#### sau
 
-    Pronunciation
 
-        /sau/
+### sau
+
+##### Pronunciation
+
+    /sau/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *sokowi, meaning "to command, to order".
+
+##### Noun
 
-        From Proto-Daimarian *sokowi, meaning "to command, to order".
+    1. King, queen, emperor, ruler
 
-    Noun
 
-        1. King, queen, emperor, ruler
 
-#### sayawa
+### sayawa
 
-    Pronunciation
+##### Pronunciation
 
-        /sajəwa/
+    /sajəwa/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *sokowi, meaning "to like, to enjoy".
+    From Proto-Daimarian *sokowi, meaning "to like, to enjoy".
 
-    Verb
+##### Verb
 
-        1. (transitive) to love (romantically).
+    1. (transitive) to love (romantically).
 
-#### mó
 
-    Pronunciation
 
-        /mo/
+### mó
+
+##### Pronunciation
+
+    /mo/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *mow, meaning "wide, large".
+
+##### Suffix
 
-        From Proto-Daimarian *mow, meaning "wide, large".
+    1. Lowest general augmentative.
 
-    Suffix
 
-        1. Lowest general augmentative.
 
-#### sa
+### sa
 
-    Pronunciation
+##### Pronunciation
 
-        /sa/ (Stressed)
+    /sa/ (Stressed)
 
-        /s/ (Unstressed)
+    /s/ (Unstressed)
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *so, meaning "great, all".
+    From Proto-Daimarian *so, meaning "great, all".
 
-    Suffix
+##### Suffix
 
-        1. Median general augmentative.
+    1. Median general augmentative.
 
-#### mósa
 
-    Pronunciation
 
-        /mosa/ (Ultimate Stress)
+### mósa
 
-        /mos/ (Penultimate Stress)
+##### Pronunciation
+
+    /mosa/ (Ultimate Stress)
+
+    /mos/ (Penultimate Stress)
     
-    Etymology
+##### Etymology
 
-        A compound of mó + sa, equivalent to *mow + *sa.
+    A compound of mó + sa, equivalent to *mow + *sa.
     
-    Suffix
+##### Suffix
+
+    1. Highest general augmentative.
+
 
-        1. Highest general augmentative.
 
-#### ir
+### ir
 
-    Pronunciation
+##### Pronunciation
 
-        /iɾ/
+    /iɾ/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *jut'ira, meaning "to strike, to stab".
+    From Proto-Daimarian *jut'ira, meaning "to strike, to stab".
 
-    Verb
+##### Verb
 
-        1. (vulgar, transitive) to have sex.
+    1. (vulgar, transitive) to have sex.
 
-#### sai
 
-    Pronunciation
 
-        /sai/
+### sai
+
+##### Pronunciation
+
+    /sai/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *s'ekan, meaning "to defile".
 
-        From Proto-Daimarian *s'ekan, meaning "to defile".
+##### Verb
 
-    Verb
+    1. (vulgar, transitive) to have oral sex.
 
-        1. (vulgar, transitive) to have oral sex.
 
-#### izera
 
-    Pronunciation
+### izera
 
-        /izɛɾa/
+##### Pronunciation
+
+    /izɛɾa/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *jadure, meaning "to thrust, to attack".
 
-        From Proto-Daimarian *jadure, meaning "to thrust, to attack".
+##### Verb
 
-    Verb
+    1. (vulgar, transitive) to have vaginal sex.
 
-        1. (vulgar, transitive) to have vaginal sex.
 
-#### kasu
 
-    Pronunciation
+### kasu
 
-        /kasu/
+##### Pronunciation
+
+    /kasu/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *k'ot'ung, meaning "to impale".
 
-        From Proto-Daimarian *k'ot'ung, meaning "to impale".
+##### Verb
 
-    Verb
+    1. (vulgar, transitive) to have anal sex.
 
-        1. (vulgar, transitive) to have anal sex.
 
-#### si
 
-    Pronunciation
+### si
 
-        /si/
+##### Pronunciation
+
+    /si/
     
-    Etymology 1
+##### Etymology 1
 
-        From Proto-Daimarian *s'ejxe, meaning "to suck".
+    From Proto-Daimarian *s'ejxe, meaning "to suck".
 
-    Verb
+##### Verb
 
-        1. (vulgar, transitive) to perform oral sex on a penis.
+    1. (vulgar, transitive) to perform oral sex on a penis.
     
-    <!---
-    Etymology 2
+<!---
+##### Etymology 2
+
+    From Proto-Daimarian *s'in, meaning "".
+--->
 
-        From Proto-Daimarian *s'in, meaning "".
-    --->
 
-#### vasé
 
-    Pronunciation
+### vasé
 
-        /vase/
+##### Pronunciation
+
+    /vase/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *bet'aj, meaning "to lick".
 
-        From Proto-Daimarian *bet'aj, meaning "to lick".
+##### Verb
 
-    Verb
+    1. (vulgar, transitive) to perform oral sex on a vagina.
 
-        1. (vulgar, transitive) to perform oral sex on a vagina.
 
-#### bali
 
-    Pronunciation
+### bali
 
-        /bali/
+##### Pronunciation
+
+    /bali/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *pelim, meaning "breast".
+    From Proto-Daimarian *pelim, meaning "breast".
     
-    Noun
+##### Noun
+
+    1. (vulgar) breast, tit, titty, boob.
 
-        1. (vulgar) breast, tit, titty, boob.
 
-#### moru
 
-    Pronunciation
+### moru
 
-        /mɔru/
+##### Pronunciation
+
+    /mɔru/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *moruz, meaning .
+    From Proto-Daimarian *moruz, meaning .
     
-    Noun
+##### Noun
+
+    1. (vulgar) A submissive person; a bitch.
 
-        1. (vulgar) A submissive person; a bitch.
 
-#### peza
 
-    Pronunciation
+### peza
 
-        /pɛzə/
+##### Pronunciation
+
+    /pɛzə/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *p'itak, meaning "tip, edge".
+
+##### Noun
 
-        From Proto-Daimarian *p'itak, meaning "tip, edge".
+    1. (vulgar) penis, dick, cock.
 
-    Noun
 
-        1. (vulgar) penis, dick, cock.
 
-#### liró
+### liró
 
-    Pronunciation
+##### Pronunciation
 
-        /liɾo/
+    /liɾo/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *lim + *ros, "person" + Collective suffix.
+    From Proto-Daimarian *lim + *ros, "person" + Collective suffix.
 
-    Noun
+##### Noun
 
-        1. A Liran person
+    1. A Liran person
 
-#### géné
 
-    Pronunciation
 
-        /gene/
+### géné
+
+##### Pronunciation
+
+    /gene/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *kajnagh, meaning "to think, to arrange, to advise".
+
+##### Verb
 
-        From Proto-Daimarian *kajnagh, meaning "to think, to arrange, to advise".
+    1. (transitive) to discuss, to advise, to counsel.
 
-    Verb
 
-        1. (transitive) to discuss, to advise, to counsel.
 
-#### généré
+### généré
 
-    Pronunciation
+##### Pronunciation
 
-        /geneɾe/
+    /geneɾe/
     
-    Etymology
+##### Etymology
 
-        A compound of géné + ré, equivalent to *kaynagh + *raj.
+    A compound of géné + ré, equivalent to *kaynagh + *raj.
 
-    Noun
+##### Noun
 
-        1. Council
+    1. Council
 
-#### ró
 
-    Pronunciation
 
-        /ɾo/
+### ró
+
+##### Pronunciation
+
+    /ɾo/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *-ros, a collective suffix.
+
+##### Suffix
 
-        From Proto-Daimarian *-ros, a collective suffix.
+    1. Non-productive mass noun suffix.
 
-    Suffix
 
-        1. Non-productive mass noun suffix.
 
-#### muna
+### muna
 
-    Pronunciation
+##### Pronunciation
 
-        /muna/ (Ultimate Stress)
+    /muna/ (Ultimate Stress)
 
-        /mun/ (Penultimate Stress)
+    /mun/ (Penultimate Stress)
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *murno, a resultative verb to noun suffix.
+    From Proto-Daimarian *murno, a resultative verb to noun suffix.
 
-    Suffix
+##### Suffix
 
-        1. Creates resultative nouns from the verbal root.
+    1. Creates resultative nouns from the verbal root.
 
-#### sénó
 
-    Pronunciation
 
-        /seno/
+### sénó
+
+##### Pronunciation
+
+    /seno/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *segnos, meaning "to rule, to lead".
+
+##### Noun
 
-        From Proto-Daimarian *segnos, meaning "to rule, to lead".
+    1. to rule, to lead
 
-    Noun
 
-        1. to rule, to lead
 
-#### ali
+### ali
 
-    Pronunciation
+##### Pronunciation
 
-        /ali/
+    /ali/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *'elivja, meaning "small, short".
+    From Proto-Daimarian *'elivja, meaning "small, short".
 
-    Noun
+##### Noun
 
-        1. Affectionate diminutive suffix.
+    1. Affectionate diminutive suffix.
 
-#### Élósa
 
-    Pronunciation
 
-        /elosa/
+### Élósa
+
+##### Pronunciation
+
+    /elosa/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *eflor + *so, meaning .
 
-        From Proto-Daimarian *eflor + *so, meaning .
+##### Noun
 
-    Noun
+    1. The Liran Goddess of Life, Birth, and the Day.
 
-        1. The Liran Goddess of Life, Birth, and the Day.
 
-#### Arósa
 
-    Pronunciation
+### Arósa
 
-        /arosa/
+##### Pronunciation
+
+    /arosa/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *azor + *so, meaning.
 
-        From Proto-Daimarian *azor + *so, meaning.
+##### Noun
 
-    Noun
+    1. The Liran God of Death, the Afterlife, and the Night.
 
-        1. The Liran God of Death, the Afterlife, and the Night.
 
-#### Déumasa
 
-    Pronunciation
+### Déumasa
 
-        /deuməsa/
+##### Pronunciation
+
+    /deuməsa/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *tejilme + *so, meaning .
 
-        From Proto-Daimarian *tejilme + *so, meaning .
+##### Noun
 
-    Noun
+    1. The Liran God of Justice, Truth, Peace, and Order.
 
-        1. The Liran God of Justice, Truth, Peace, and Order.
 
-#### Burasa
 
-    Pronunciation
+### Burasa
 
-        /buɾəsa/
+##### Pronunciation
+
+    /buɾəsa/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *pusra + *so, meaning .
 
-        From Proto-Daimarian *pusra + *so, meaning .
+##### Noun
 
-    Noun
+    1. The Liran Goddess of War, Violence, Chaos, Deception, and Illness.
 
-        1. The Liran Goddess of War, Violence, Chaos, Deception, and Illness.
 
-#### Garasa
 
-    Pronunciation
+### Garasa
 
-        /gaɾəsa/
+##### Pronunciation
+
+    /gaɾəsa/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *katro + *so, meaning .
 
-        From Proto-Daimarian *katro + *so, meaning .
+##### Noun
 
-    Noun
+    1. The Liran God of the Arts, Love, Music, Medicine, Beauty, and Crafts.
 
-        1. The Liran God of the Arts, Love, Music, Medicine, Beauty, and Crafts.
 
-#### Xés
 
-    Pronunciation
+### Xés
 
-        /ʃes/
+##### Pronunciation
+
+    /ʃes/
+    
+##### Etymology
+
+    From Proto-Daimarian *k'estar + *so, meaning .
     
-    Etymology
+##### Noun
 
-        From Proto-Daimarian *k'estar + *so, meaning .
+    1. The Liran Goddess of Water, Oceans, Rivers, Rain, and Floods.
 
-    Noun
 
-        1. The Liran Goddess of Water, Oceans, Rivers, Rain, and Floods.
 
-#### Dunisa
+### Dunisa
 
-    Pronunciation
+##### Pronunciation
 
-        /dunisa/
+    /dunisa/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *tusnuji + *so, meaning .
 
-        From Proto-Daimarian *tusnuji + *so, meaning .
+##### Noun
 
-    Noun
+    1. The Liran Goddess of Animals, Hunting, Fortune, and Wealth.
 
-        1. The Liran Goddess of Animals, Hunting, Fortune, and Wealth.
 
-#### Narisa
 
-    Pronunciation
+### Narisa
 
-        /naɾisa/
+##### Pronunciation
+
+    /naɾisa/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *naruji + *so, meaning .
+
+##### Noun
 
-        From Proto-Daimarian *naruji + *so, meaning .
+    1. The Liran Goddess of Agriculture, Fertility, Healing, Maternity, and Lust.
 
-    Noun
 
-        1. The Liran Goddess of Agriculture, Fertility, Healing, Maternity, and Lust.
 
-#### Méus
+### Méus
 
-    Pronunciation
+##### Pronunciation
 
-        /meus/
+    /meus/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *mijal + *so, meaning .
+    From Proto-Daimarian *mijal + *so, meaning .
 
-    Noun
+##### Noun
 
-        1. The Liran God of Wisdom, Intelligence, Strategy, Royalty.
+    1. The Liran God of Wisdom, Intelligence, Strategy, Royalty.
 
-#### sayasa
 
-    Pronunciation
 
-        /sai/
+### sayasa
+
+##### Pronunciation
+
+    /sai/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *saskan + *so, "to do, to enact" + "great".
+    From Proto-Daimarian *saskan + *so, "to do, to enact" + "great".
     
-    Noun
+##### Noun
+
+    1. The Liran pantheon.
+
 
-        1. The Liran pantheon.
 
-#### ma
+### ma
 
-    Pronunciation
+##### Pronunciation
 
-        /ma/ (Stressed)
+    /ma/ (Stressed)
 
-        /m/ (Unstressed)
+    /m/ (Unstressed)
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *mo, meaning .
+    From Proto-Daimarian *mo, meaning .
 
-    Suffix
+##### Suffix
 
-        1. Forms nouns meaning 'of or relating to' the root noun.
+    1. Forms nouns meaning 'of or relating to' the root noun.
 
-#### ela
 
-    Pronunciation
 
-        /ɛlə/
+### ela
+
+##### Pronunciation
+
+    /ɛlə/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *ulin, meaning .
+
 
-        From Proto-Daimarian *ulin, meaning .
 
-#### déli
+### déli
 
-    Pronunciation
+##### Pronunciation
 
-        /deli/
+    /deli/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *tenlim, meaning .
+    From Proto-Daimarian *tenlim, meaning .
 
-#### ayó
 
-    Pronunciation
 
-        /ajo/
+### ayó
+
+##### Pronunciation
+
+    /ajo/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *x'akol, meaning .
+
 
-        From Proto-Daimarian *x'akol, meaning .
 
-#### nisa
+### nisa
 
-    Pronunciation
+##### Pronunciation
 
-        /nisə/
+    /nisə/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *nujsi, meaning .
+    From Proto-Daimarian *nujsi, meaning .
 
-#### zulu
 
-    Pronunciation
 
-        /zulu/
+### zulu
+
+##### Pronunciation
+
+    /zulu/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *duslur, meaning .
+
 
-        From Proto-Daimarian *duslur, meaning .
 
-#### róu
+### róu
 
-    Pronunciation
+##### Pronunciation
 
-        /ɾou/
+    /ɾou/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *rak'ol, meaning .
+    From Proto-Daimarian *rak'ol, meaning .
 
-#### selé
 
-    Pronunciation
 
-        /sɛle/
+### selé
+
+##### Pronunciation
+
+    /sɛle/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *silem, meaning .
+
 
-        From Proto-Daimarian *silem, meaning .
 
-#### wiza
+### wiza
 
-    Pronunciation
+##### Pronunciation
 
-        /wizə/
+    /wizə/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *wifti, meaning .
+    From Proto-Daimarian *wifti, meaning .
 
-#### réi
 
-    Pronunciation
 
-        /ɾei/
+### réi
+
+##### Pronunciation
+
+    /ɾei/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *zata, meaning .
+
 
-        From Proto-Daimarian *zata, meaning .
 
-#### ya
+### ya
 
-    Pronunciation
+##### Pronunciation
 
-        /ja/
+    /ja/
 
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *jas, meaning "one".
+    From Proto-Daimarian *jas, meaning "one".
 
-    Numeral
+##### Numeral
 
-        1. One.
+    1. One.
 
-#### naur
 
-    Pronunciation
 
-        /nauɾ/
+### naur
+
+##### Pronunciation
+
+    /nauɾ/
     
-    Etymology
+##### Etymology
+
+    From Proto-Daimarian *nupar, meaning "three".
+
+##### Numeral
 
-        From Proto-Daimarian *nupar, meaning "three".
+    1. Three.
 
-    Numeral
 
-        1. Three.
 
-#### nésai
+### nésai
 
-    Pronunciation
+    ##### Pronunciation
 
         /nesai/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *najsid, meaning "four".
+    From Proto-Daimarian *najsid, meaning "four".
 
-    Numeral
+##### Numeral
 
-        1. Four.
+    1. Four.
 
-#### résu
 
-    Pronunciation
 
-        /resu/
+### résu
+
+##### Pronunciation
+
+    /resu/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *rojs'un, meaning "five.
+    From Proto-Daimarian *rojs'un, meaning "five.
 
-    Numeral
+##### Numeral
 
-        1. Five.
+    1. Five.
 
-#### fer
 
-    Pronunciation
 
-        /fɛɾ/
+### fer
+
+##### Pronunciation
+
+    /fɛɾ/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *f'iran, meaning "six".
+    From Proto-Daimarian *f'iran, meaning "six".
 
-    Numeral
+##### Numeral
 
-        1. Six.
+    1. Six.
 
-#### dóumi
 
-    Pronunciation
 
-        /doumi/
+### dóumi
+
+##### Pronunciation
+
+    /doumi/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *talmuj, meaning "seven".
+    From Proto-Daimarian *talmuj, meaning "seven".
 
-    Numeral
+##### Numeral
 
-        1. Seven.
+    1. Seven.
 
-#### méxi
 
-    Pronunciation
 
-        /meʃi/
+### méxi
+
+##### Pronunciation
+
+    /meʃi/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *mefk'in, meaning "eight".
+    From Proto-Daimarian *mefk'in, meaning "eight".
 
-    Numeral
+##### Numeral
 
-        1. Eight.
+    1. Eight.
 
-#### pau
 
-    Pronunciation
 
-        //
+### pau
+
+##### Pronunciation
+
+    //
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *p'il, meaning "nine".
+    From Proto-Daimarian *p'il, meaning "nine".
 
-    Numeral
+##### Numeral
 
-        1. Nine
+    1. Nine
 
-#### du
 
-    Pronunciation
 
-        /du/
+### du
+
+##### Pronunciation
+
+    /du/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *tungxos, meaning "ten".
+    From Proto-Daimarian *tungxos, meaning "ten".
 
-    Numeral
+##### Numeral
 
-        1. Ten
+    1. Ten
 
-#### lisai
 
-    Pronunciation
 
-        /lisai/
+### lisai
+
+##### Pronunciation
+
+    /lisai/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *lint'ut, meaning "eleven.
+    From Proto-Daimarian *lint'ut, meaning "eleven.
 
-    Numeral
+##### Numeral
 
-        1. Eleven
+    1. Eleven
 
-#### serai
 
-    Pronunciation
 
-        /sɛɾai/
+### serai
+
+##### Pronunciation
+
+    /sɛɾai/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *siruk, meaning "twelve".
+    From Proto-Daimarian *siruk, meaning "twelve".
 
-    Numeral
+##### Numeral
 
-        1. Twelve
+    1. Twelve
 
-#### ói
 
-    Pronunciation
 
-        /oi/
+### ói
+
+##### Pronunciation
+
+    /oi/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *wuda, meaning "soil, ground".
+    From Proto-Daimarian *wuda, meaning "soil, ground".
 
-    Noun
+##### Noun
 
-        1. Country, land.
+    1. Country, land.
 
-#### yasu
 
-    Pronunciation
 
-        /jasu/
+### yasu
+
+##### Pronunciation
+
+    /jasu/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *jant'un, meaning .
+    From Proto-Daimarian *jant'un, meaning .
 
-#### fau
 
-    Pronunciation
 
-        /fau/
+### fau
+
+##### Pronunciation
+
+    /fau/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *f'il, meaning .
+    From Proto-Daimarian *f'il, meaning .
 
-#### barózó
 
-    Pronunciation
 
-        /barozo/
+### barózó
+
+##### Pronunciation
+
+    /barozo/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *poros + *tor, "life, body, soul", "to give".
+    From Proto-Daimarian *poros + *tor, "life, body, soul", "to give".
 
-    Noun
+##### Noun
 
-        1. Life, Vitality
+    1. Life, Vitality
 
-#### Kenemó
 
-    Pronunciation
 
-        /kɛnɛmo/
+### Kenemó
+
+##### Pronunciation
+
+    /kɛnɛmo/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *k'unin + *so, .
+    From Proto-Daimarian *k'unin + *so, .
 
-    Noun
+##### Noun
 
-        1. The largest province in the Liran Republic.
+    1. The largest province in the Liran Republic.
 
-#### Daimó
 
-    Pronunciation
 
-        /daimo/
+### Daimó
+
+##### Pronunciation
+
+    /daimo/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *titama + *so, 
+    From Proto-Daimarian *titama + *so, 
 
-    Noun
+##### Noun
 
-        1. The second largest province in the Liran Republic.
+    1. The second largest province in the Liran Republic.
 
-#### lén
 
-    Pronunciation
 
-        /len/
+### lén
+
+##### Pronunciation
+
+    /len/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *lownaj, meaning "brother".
+    From Proto-Daimarian *lownaj, meaning "brother".
 
-    Noun
+##### Noun
 
-        1. Brother
+    1. Brother
 
-        2. Extremely close (male) friend.
+    2. Extremely close (male) friend.
 
-#### mévu
 
-    Pronunciation
 
-        /mevu/
+### mévu
+
+##### Pronunciation
+
+    /mevu/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *moghbus, meaning "sister".
+    From Proto-Daimarian *moghbus, meaning "sister".
 
-    Noun
+##### Noun
 
-        1. Sister
+    1. Sister
 
-        2. Extremely close (female) friend.
+    2. Extremely close (female) friend.
 
-#### lau
 
-    Pronunciation
 
-        /lau/
+### lau
+
+##### Pronunciation
+
+    /lau/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *lavaj, meaning .
+    From Proto-Daimarian *lavaj, meaning .
 
-#### kena
 
-    Pronunciation
 
-        /kɛnə/
+### kena
+
+##### Pronunciation
+
+    /kɛnə/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *k'unin, meaning .
+    From Proto-Daimarian *k'unin, meaning .
 
-#### nal
 
-    Pronunciation
 
-        /nal/
+### nal
+
+##### Pronunciation
+
+    /nal/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *nanlo, meaning .
+    From Proto-Daimarian *nanlo, meaning .
 
-#### lairó
 
-    Pronunciation
 
-        /laiɾo/
+### lairó
+
+##### Pronunciation
+
+    /laiɾo/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *likros, meaning .
+    From Proto-Daimarian *likros, meaning .
 
-#### dé
 
-    Pronunciation
 
-        /de/
+### dé
+
+##### Pronunciation
+
+    /de/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *tetaz, meaning .
+    From Proto-Daimarian *tetaz, meaning .
 
-#### móu
 
-    Pronunciation
 
-        /mou/
+### móu
+
+##### Pronunciation
+
+    /mou/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *mavraz, meaning "to flow, to bend".
+    From Proto-Daimarian *mavraz, meaning "to flow, to bend".
 
-    Noun
+##### Noun
 
-        1. River, Stream, Creek
+    1. River, Stream, Creek
 
-#### dó
 
-    Pronunciation
 
-        /do/
+### dó
+
+##### Pronunciation
+
+    /do/
     
-    Etymology
+##### Etymology
 
-        From Proto-Daimarian *tor, meaning "to give".
+    From Proto-Daimarian *tor, meaning "to give".
 
-#### só
 
-    Variants
 
-        só (Intervocalic, more common)
-        tó (Non-intervocalic, rare)
+### só
 
-    Pronunciation
+##### Variants
 
-        /so/ (Intervocalic)
+    só (Intervocalic, more common)
+    tó (Non-intervocalic, rare)
 
-        /to/ (Non-intervocalic)
+##### Pronunciation
 
-    Noun
+    /so/ (Intervocalic)
 
-        1. Non-productive agent noun suffix.
+    /to/ (Non-intervocalic)
+
+##### Noun
+
+    1. Non-productive agent noun suffix.
+
+
+
+### Óimósa
+
+##### Pronunciation
+
+    /oimosa/
+
+##### Etymology
+
+    From ói + mósa, equivalent to Proto-Daimarian *wuda + *mowsa.
+
+##### Noun
+
+    1. The planet Neosaia, Chrysteraki C, or K2-776C.
