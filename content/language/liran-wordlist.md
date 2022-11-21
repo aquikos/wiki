@@ -7,7 +7,11 @@ The list may not always be exhaustive, but it should be mostly up-to-date.
 
 This page is currently under construction, so it may not be formatted properly yet.
 
-###  émaru
+A large problem with the sound changes, so take the modern versions of words with a grain of salt. 
+If a word is monosyllabic, it is still correct.
+If it is polysyllabic and contains closed syllables, there is a reasonable chance it is incorrect.
+
+### émaru
 
 ##### Pronunciation 
     
@@ -23,6 +27,8 @@ This page is currently under construction, so it may not be formatted properly y
 
 &emsp;&emsp;a. sénórémós 
 
+
+
 ### zeri
 
 ##### Pronunciation
@@ -36,6 +42,7 @@ This page is currently under construction, so it may not be formatted properly y
 ##### Noun
 
 &emsp;1. Nerd, geek.
+
 
 
 ### ré
@@ -298,7 +305,7 @@ This page is currently under construction, so it may not be formatted properly y
     
 ##### Etymology
 
-&emsp;From Proto-Daimarian *sokowi, meaning "to command, to order".
+&emsp;From Proto-Daimarian *sowan, meaning "to command, to order".
 
 ##### Noun
 

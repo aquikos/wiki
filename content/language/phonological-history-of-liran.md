@@ -108,18 +108,19 @@ proto-to-east-5600:
 devoicing-5500:
   [voiced plosive] [voiceless] => [voiceless] 
   [voiced fricative] [voiceless] => [voiceless]
+  [vowel] => [vowel nasalized] / _ [nasal] {[cons], $}
+  Then:
+  [nasal] => * / [vowel nasalized] _
 
 eastern-shifts-5400:
   {j, w} => {i, u} / [vowel] _ {[cons], $}
   {uw, ij} => {w, j} / _ [vowel]
   {ji, ij} => iː / {[cons], $} _ {[cons], $}
   {wu, uw} => uː / {[cons], $} _ {[cons], $}
-  [vowel] => [vowel nasalized] / _ [nasal] {[cons], $}
   Then:
   [vowel short] => [vowel long] / {[cons], $} _ [nonsib voiceless fricative] {[cons], $}
   Then:
   {ii, uu} => {iː, uː}
-  [nasal] => * / [vowel nasalized] _
   [nonsib voiceless fricative] => * / [vowel long] _
 
 palatalization-5200:
@@ -154,6 +155,10 @@ umlaut-4100:
 
 h-drop-3700:
   {h, ʔ} => *
+  {wu, ji} => {u, i} / [vowel] _
+
+comp-short:
+  [vowel] [vowel] => [short vowel] [short vowel]
 
 hdropvshifts-3500:
   {iy, yi, iu, ui, yu, uy} => yː
@@ -168,11 +173,11 @@ hdropvshifts-3500:
   {iɪ, yɪ, uɪ, eɪ, øɪ, oɪ, ɛɪ, ɪɪ, aɪ, iːɪ, yːɪ, uːɪ, eːɪ, øːɪ, oːɪ, ɛːɪ, ɪːɪ, aːɪ} => {je, ɥe, we, eː, øː, øː, e, i, e, iː, yː, yː, eː, øː, øː, eː, iː, eː}
   {ɛi, ɛy, ɛu, ɛe, ɛø, ɛo, ɛɛ, ɛɪ, ɛa, ɛiː, ɛyː, ɛuː, ɛeː, ɛøː, ɛoː, ɛɛː, ɛɪː, ɛaː} => {ai, ay, au, eː, øː, øː, e, i, aː, iː, yː, yː, eː, øː, øː, eː, iː, eː}
   {iɛ, yɛ, uɛ, eɛ, øɛ, oɛ, ɛɛ, ɪɛ, aɛ, iːɛ, yːɛ, uːɛ, eːɛ, øːɛ, oːɛ, ɛːɛ, ɪːɛ, aːɛ} => {ja, ɥa, wa, eː, øː, øː, e, i, aː, iː, yː, yː, eː, øː, øː, eː, iː, eː}
+  {iːi, yːy, uːu} => {iː, yː, uː}
   {eːe, øːø, oːo} => {iː, yː, uː}
   {eeː, øøː, ooː} => {iː, yː, uː}
 
 vowel-shifts1-3300:
-  {iː, yː, uː} => {ei, ey, eu}
   {eː, øː, oː} => {i, y, u}
   aː => ɑ
   {i, y, u} => {ɪ, ʏ, ʊ}
@@ -210,7 +215,7 @@ remove-stress:
   [vowel stressed] => [vowel unstressed]
 
 fix-ai-ay-au:
-  {ei, ey, eu} => {ai, ay, au}
+  {iː, yː, uː} => {ai, ay, au}
 
 hdrop2vshifts-2400:
   {əj, əw} => {e, o}
@@ -330,18 +335,6 @@ insert-stress3:
   [vowel unstressed] => [vowel stressed] / [cons] _ [cons]? [cons] [vowel] [cons]? $
 )
 
-romanizer-modern-liro-latin:
-  [stressed] => [unstressed]
-  Then:
-  [closemid front unrounded vowel] => é
-  [nearopen front unrounded vowel] => ĕ
-  [closemid back rounded vowel] => ó
-  [nearopen back rounded vowel] => ŏ
-  [mid central unrounded vowel] => ă
-  [voiceless sibilant postalveolar fricative] => x
-  [sibilant postalveolar fricative] => j
-  [palatal approximant] => y
-
 diphshifts-250:
   {əi, əu} => {e, o}
   {ɛ, ɔ, ə}&[unstressed] => {ə, ə, *} / _ $
@@ -353,4 +346,11 @@ diphshifts-250:
   {ɛu, ɔu} => {au}
   {əi, əu} => {ai, au}
   {j, w} => {i, u} / [vowel] _ {$, [cons]}
+
+romanizer-modern-liro:
+  {e, o} => {é, ó}
+  {ɛ, ɔ} => {e, o}
+  ə => a
+  {ɾ, j} => {r, y}
+  {ʃ, ʒ} => {x, j}
 </pre>
