@@ -21,7 +21,7 @@ This page is currently under construction, so it may not be formatted properly y
 
 &emsp;1. Chief, head, leader
 
-
+&emsp;&emsp;a. sénórémós 
 
 ### zeri
 

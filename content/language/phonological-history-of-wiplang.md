@@ -2,7 +2,7 @@
 title: "Phonological History of Wiplang"
 ---
 
-<code>
+<pre>
 Feature type(*cons, vowel)
 
 Feature place(labial, alveolar, postalveolar, palatal, velar, uvular, glottal)
@@ -291,4 +291,4 @@ unrounding2:
 
 semi-shift:
   {i, u} => {j, w} / _ [vowel]
-</code>
+</pre>

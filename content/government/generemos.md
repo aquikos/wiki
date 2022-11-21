@@ -43,7 +43,7 @@ Because this number is unlikely to be an integer, and because only so many seats
 | State 9 |    5.97m   |   0.517  |   7   |     Yes     |
 
 The algorithm to generate this data is found below (in Python):
-<code>
+<pre>
 import math
 
 # Function to get each state's overflow.
@@ -109,7 +109,7 @@ for k, v in enumerate(state_data):
     print(f"Overflow: {state_data[k][1]}")
     print(f"Received Overflow Seat? {state_data[k][2]}")
     print(f"Seats: {state_data[k][3]}\n")
-</code>
+</pre>
 
 ## Organization
 

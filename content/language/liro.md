@@ -2,7 +2,7 @@
 title: "Liran"
 ---
 
-Liran is one of the most widely spoken languages on the planet Neosaia.
+Liran is one of the most widely spoken languages on the planet Oimosa.
 Its English name comes from the Liran word ⟨Liré⟩, meaning "liran". 
 
 ## History
@@ -14,9 +14,9 @@ Proto-Daimarian
 - Eastern Daimarian
   - Peninsular Eastern Daimarian
     - Eastern Peninsular Eastern Daimarian
-      - Old Liró
-        - Middle Liró
-          - Modern Liró
+      - Old Liran
+        - Middle Liran
+          - Modern Liran
 
 ## Phonology
 
@@ -67,8 +67,8 @@ This very regular stress often leads to an "up and down" sound to the language, 
 
 Modern Liran has a fully phonetic romanization. 
 Most sounds are represented with their latin equivalent, but exceptions are listed below.
-Only one diacritic is used, the acute, and it is always necessary except in diphthongs.
-In best practice, however, it should always be used, despite the lack of distinction.
+Only the acute is used, and is always necessary except in diphthongs.
+For best practice, however, it should always be used despite the lack of distinction.
 
 |  IPA | Romanization |
 |:----:|:------------:|
