@@ -41,6 +41,7 @@ The glottal stop may be written with ⟨'⟩, or it may not be written at all, a
 
 On some level, the grammar of Proto-Daimarian is similar to English, but for the most part it is quite different.
 Its basic word order is SVO, and it is almost exclusively head initial, with all modifiers except demonstratives going after the head. 
+In stark contrast to English, Liran is highly inflected, being mostly agglutinative.
 
 ### Nouns
 
@@ -49,6 +50,22 @@ Roots are split into open and closed forms, and are purely agglutinative.
 If a root is -C, it takes the closed form.
 If the root is -V, it takes the open form.
 The plural suffix does not necessarily have to match the case suffix.
+
+|      Open      | Singular | Plural |
+|:--------------:|:--------:|:------:|
+| **Nominative** |    -∅    |   -n   |
+| **Accusative** |    -me   |  -men  |
+|   **Dative**   |    -fi   |  -fin  |
+|  **Genitive**  |    -du   |  -dun  |
+|  **Locative**  |    -gi   |  -gin  |
+
+|     Closed     | Singular | Plural |
+|:--------------:|:--------:|:------:|
+| **Nominative** |    -∅    |   -a   |
+| **Accusative** |    -e    |   -en  |
+|   **Dative**   |    -iw   |  -iwa  |
+|  **Genitive**  |    -ol   |  -ola  |
+|  **Locative**  |    -ej   |  -eja  |
 
 ### Verbs
 

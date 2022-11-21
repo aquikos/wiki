@@ -7,7 +7,7 @@ A complete list of every sound change from Proto-Daimarian to Modern Liran.
 Currently, the list is in Lexurgy's *.lsc format, and I am not planning to update it to proper phonological rule syntax any time soon.
 It is too time costly, and is not worth the effort for such little tradeoff in the end. 
 
-<code>
+<pre>
 Feature type(*cons, vowel)
 
 Feature place(labial, alveolar, postalveolar, palatal, velar, glottal)
@@ -353,4 +353,4 @@ diphshifts-250:
   {ɛu, ɔu} => {au}
   {əi, əu} => {ai, au}
   {j, w} => {i, u} / [vowel] _ {$, [cons]}
-</code>
+</pre>
