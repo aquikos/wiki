@@ -41,8 +41,6 @@ Symbol ɟ [palatal plosive]
 Symbol kʼ [ejective velar plosive]
 Symbol k [voiceless velar plosive]
 Symbol g [velar plosive]
-Symbol ts [voiceless sibilant alveolar affricate]
-Symbol dz [sibilant alveolar affricate]
 Symbol tɕ [voiceless sibilant palatal affricate]
 Symbol dʑ [sibilant palatal affricate]
 Symbol cç [voiceless nonsib palatal affricate]
@@ -177,7 +175,11 @@ hdropvshifts-3500:
   {eːe, øːø, oːo} => {iː, yː, uː}
   {eeː, øøː, ooː} => {iː, yː, uː}
 
+comp-short2:
+  [vowel] [vowel] => [short vowel] [short vowel]
+
 vowel-shifts1-3300:
+  {uy, yu} => yː
   {eː, øː, oː} => {i, y, u}
   aː => ɑ
   {i, y, u} => {ɪ, ʏ, ʊ}
@@ -192,6 +194,7 @@ intv-lenition-3000:
   [plosive] => [nonsib fricative] / [vowel] _ {[cons], $}
 
 misc-shifts2-2700:
+  {ff, θθ, xx} => {f, θ, x}
   {x, ɣ, ŋ} => {h, j, n}
   [vowel] {f, θ, x} => [vowel long] * / _ {[cons], $} 
 
@@ -218,7 +221,7 @@ fix-ai-ay-au:
   {iː, yː, uː} => {ai, ay, au}
 
 hdrop2vshifts-2400:
-  {əj, əw} => {e, o}
+  {əj, əw} => {e, o} // _ [vowel]
   {ai, ay, au} => {e, ø, o} / _ {ai, ay, au, i, y, u} {[cons], $}
   {ɛ, œ, ɔ} => {e, ø, o} / _ {i, y, u} {[cons], $}
   {ɛai, ɛay, ɛau} => {ei, ey, eu} / _ {[cons], $}
@@ -256,10 +259,18 @@ schwadrop-2200:
   ə => *
   {a, ɑ} => a / _ [vowel]
   Then:
+  {fv, vf, θð, ðθ, sz, zs, ʃʒ, ʒʃ} => {f, f, θ, θ, s, s, ʃ,ʃ}
+  {ʃθ, θʃ, ʒð, ðʒ} => {ʃ, ʃ, ʒ, ʒ}
+  Then:
   [fricative voiced] => [fricative voiceless] / _ [cons voiceless]
   [fricative voiceless] => [fricative voiced] / _ [cons voiced]
   Then:
-  {lr, rl, ðr, rð} => r
+  {lð, ðl} => l
+  {lr, rl, ðr, rð, rʒ, ʒr} => r
+  {r, l} => {a, u} / [cons] _ [cons]
+  {ml, nl} => {mu, nu} / _ $
+  v => o / [cons] _ $
+  {vw, wv} => w
 
 semi-correction-2100:
   ij => i / [vowel] _ {$, [cons]}
@@ -296,8 +307,8 @@ r-elision-1100:
 
 unrounding-800: 
   [front rounded vowel] => [unrounded]
-  {i, iː} {j} => iː *
-  {u, uː} {w} => uː *
+  {i, iː} {j} => iː * // _ [vowel]
+  {u, uː} {w} => uː * // _ [vowel]
 
 insert-stress2:
   [vowel unstressed] => [vowel stressed] / $ [cons]? _
@@ -311,7 +322,8 @@ vowelshift4-700:
   {a, ɑ, ɛ, ɔ}&[unstressed] => ə
   Then: [vowel stressed] => [vowel unstressed]
   Then:
-  {iː, uː} => {ai, au}
+  {iː, uː} => {ai, au} // _ ɫ
+  {iː, uː} => {i, u} / _ ɫ
   {eː, oː} => {i, u}
   {ɛː, ɔː} => {e, o}
   {aː, ɑː} => {e, o}

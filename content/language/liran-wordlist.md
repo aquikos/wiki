@@ -329,7 +329,7 @@ If it is polysyllabic and contains closed syllables, there is a reasonable chanc
 
 
 
-### mó
+### -mó
 
 ##### Pronunciation
 
@@ -345,7 +345,7 @@ If it is polysyllabic and contains closed syllables, there is a reasonable chanc
 
 
 
-### sa
+### -sa
 
 ##### Pronunciation
 
@@ -363,7 +363,7 @@ If it is polysyllabic and contains closed syllables, there is a reasonable chanc
 
 
 
-### mósa
+### -móu
 
 ##### Pronunciation
 

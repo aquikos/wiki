@@ -1,8 +1,8 @@
 ---
-title: "Générémós"
+title: "Génarémóu"
 ---
 
-The Générémós, or, more specifically, the Générémós Liré, is the highest legislative body in the Liran Republic. 
+The Générémóu, or, more specifically, the Générémóu Liré, is the highest legislative body in the Liran Republic. 
 It functions similarly to a national parliament, though there are some notable differences. 
 It consists of a 144 member legislative body, with 8 parties represented as of the 3660 parliamentary elections.
 
@@ -16,7 +16,7 @@ Organization (within the Chamber)
 
 ## History
 
-The Générémós was created alongside the Liran Republic, and has lasted ever since.
+The Générémóu was created alongside the Liran Republic, and has lasted ever since.
 
 ## Election Procedures
 
@@ -32,8 +32,8 @@ Because this number is unlikely to be an integer, and because only so many seats
 
 |         | Population | Overflow | Seats | Extra Seat? |
 |:-------:|:----------:|:--------:|:-----:|:-----------:|
-|  Kenemó |   31.56m   |   0.450  |   34  |      No     |
-|  Daimó  |   22.43m   |   0.484  |   24  |      No     |
+| Kenemói |   31.56m   |   0.450  |   34  |      No     |
+| Daimói  |   22.43m   |   0.484  |   24  |      No     |
 | State 3 |   17.10m   |   0.666  |   19  |     Yes     |
 | State 4 |   14.99m   |   0.363  |   16  |      No     |
 | State 5 |   12.01m   |   0.110  |   13  |      No     |
@@ -112,6 +112,8 @@ for k, v in enumerate(state_data):
 </pre>
 
 ## Organization
+
+The 
 
 ### Current Membership
 ![3660 Election Results](/wiki/images/3660_liran_national_parliament_makeup.svg)

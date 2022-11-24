@@ -1998,3 +1998,135 @@ teeth
 shell
 
 neck
+
+## Place Names
+
+-shire: county, district
+-cester: 
+-ford: crossing
+
+Bedfordshire: Bede's crossing district
+Berkshire: hilly place district
+Buckinghamshire: he-goat's home district
+Cambridgeshire: Granta-bridge district
+Cheshire: Camp district
+City of Bristol: place by the bridge
+City of London: place that floods
+Cornwall: horn foreigner
+Cumbria: compatriots
+Derbyshire: animal settlement district
+Devon: celtic tribe name
+Dorset: Fort on the water
+Durham: hill/mountain islet
+East Riding of Yorkshire: East path through the woodland of yew district
+East Sussex: east south of the (tribe)
+Essex: east of the (tribe)
+Gloucestershire: bright place camp district
+Greater London: greater place that floods
+Greater Manchester: mother camp
+Hampshire: home district
+Herefordshire: army crossing district
+Hertfordshire: stag crossing district
+Isle of Wight: isle of the bottom
+Kent: corner/rim
+Lancaster: river camp
+Leicestershire: river camp district
+Lincolnshire: lake colony district
+Merseyside: boundary river flank
+Norfolk: north of the people
+North Yorkshire: north of Yorkshire
+Northamptonshire: north home town district
+Northumberland: north of the river land
+Nottinghampshire: Snot's home district
+Oxfordshire: animal's crossing district
+Rutland: cattle land
+Shropshire: shrub district
+Somerset: summer residents
+South Yorkshire: south yew district
+Staffordshire: landing place crossing district
+Suffolk: south of the people
+Surrey: southern region
+Tyne and Wear: river and river
+Warwickshire: dwellings by the dam district
+West Midlands: west middle lands
+West Sussex: west south of the (tribe)
+West Yorkshire: west yew district
+Wiltshire: willow town district
+Worcestershire: fort of the (tribe) district
+
+Baden-Wuerttemberg: bath-?
+Bavaria: cow settlers
+Berlin: ?
+Brandenburg: ?-castle
+Bremen: edge
+Hamburg: bend-castle
+Hesse: land of the persecutors?
+Lower Saxony: low land of the (tribe)
+Mecklenburg-Vorpommern: great castle-?
+North-Rhine Westphalia: west field north of the river
+Rhineland-Palatinate: river land ruled by a palatine
+Saarland: land of (River)
+Saxony: land of the (tribe)
+Saxony-Anhalt: land of the (tribe)
+Schleswig-Holstein: bay of the Schlei-wood inhabitant
+Thuringia: land of the (tribe)
+
+Auvergne-Rhône-Alpes: tribe-river-mountain range
+Bourgogne-Franche-Comté: high/mighty-free county
+Brittany: land of the (tribe)
+Centre-Val de Loire: central valley of the (river)
+Corsica: ?
+Hauts-de-France: high-of-(tribe)
+Île-de-France: isle-of-(tribe)
+Normandy: land of the northmans
+Nouvelle Aquitaine: new waterland
+Occitania: land of the yes people
+Pays de la Loire: land of the (river)
+Provence-Alpes-Cote d'Azur: province-(mountain range)-coast of the Azures
+
+Andalusia: land of the (tribe)
+Aragon: (river)
+Asturias: land of the (tribe)
+Balearic Islands: I strike islands
+Basque Country: tribe land
+Canary Islands: dog islands
+Cantabria: land of the rim/corner
+Castile and Leon: castle and lion
+Castile-La Mancha: Castle the birthplace/fountainhead
+Catalonia: land of the (tribe)
+Ceuta: seven brothers
+Extremadura: End of the (river)
+Galicia: land of the (tribe)
+Madrid: mother/womb of rivers
+Melilla: powerful?
+Murcia: land of (type of wood)
+Navarre: valley land
+La Rioja: the river?
+Valencia: competence/power/vigor
+
+Abruzzo: land of the (tribe)
+Aosta Valley: valley of the imperial majesty
+Apulia: water?
+Basilicata: royal hall?
+Calabria: land of the (tribe)
+Campania: countryside
+Emilia-Romagna: rival-land of the (tribe)
+Friuli-Venezia Giulia: market of god-land of the (tribe) god
+Lazio: wide
+Liguria: ?
+Lombardy: land of the (tribe)
+Marche: border land
+Molise: mill
+Piedmont: mountain foot
+Sardinia: ?
+Sicily: land of (tribe)
+Trentino-South Tyrol: three teeth
+Tuscany: land of the (tribe)
+Umbria: land of the (tribe)
+Veneto: land of the (tribe)
+
+Nordjylland: north (tribe) land
+Midjylland: mid (tribe) land
+Syddanmark: south (tribe) borderland
+Sjaelland: sea land or seal land
+Hovedstaden: main city
