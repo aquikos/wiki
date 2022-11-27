@@ -30,17 +30,35 @@ To determine how many members each state gets, the total population is divided b
 Each state's population is then divided by this number, giving the amount of seats they ought to receive.
 Because this number is unlikely to be an integer, and because only so many seats remain, whichever states are closest to receiving another seat receive priority. 
 
-|         | Population | Overflow | Seats | Extra Seat? |
-|:-------:|:----------:|:--------:|:-----:|:-----------:|
-| Kenemói |   31.56m   |   0.450  |   34  |      No     |
-| Daimói  |   22.43m   |   0.484  |   24  |      No     |
-| State 3 |   17.10m   |   0.666  |   19  |     Yes     |
-| State 4 |   14.99m   |   0.363  |   16  |      No     |
-| State 5 |   12.01m   |   0.110  |   13  |      No     |
-| State 6 |   10.55m   |   0.516  |   12  |     Yes     |
-| State 7 |    9.06m   |   0.890  |   10  |     Yes     |
-| State 8 |    8.25m   |   0.005  |   9   |      No     |
-| State 9 |    5.97m   |   0.517  |   7   |     Yes     |
+|          | Population | Overflow | Seats | Extra Seat? |
+|:--------:|:----------:|:--------:|:-----:|:-----------:|
+|   Kemói  |   31.56m   |   0.450  |   34  |      No     |
+|  Daimói  |   22.43m   |   0.484  |   24  |      No     |
+|  Dévisal |   17.10m   |   0.666  |   19  |     Yes     |
+|  Talusal |   14.99m   |   0.363  |   16  |      No     |
+| Exésésal |   12.01m   |   0.110  |   13  |      No     |
+|  Ximsal  |   10.55m   |   0.516  |   12  |     Yes     |
+|  Arisal  |    9.06m   |   0.890  |   10  |     Yes     |
+|  Evóisal |    8.25m   |   0.005  |   9   |      No     |
+| Baróisal |    5.97m   |   0.517  |   7   |     Yes     |
+
+<!---
+k'uninmowuda -> Kemóisal (Named after a river)
+titamawuda -> Daimóisal (Named after a river)
+tempiwuda -> Déva -> Dévisal (Named after a tribe)
+t'oluz -> Talusal (Named after a city)
+jek'ens'ar -> Exésésal (Named after a river)
+k'ejman -> Ximsal (Named after a city)
+eziwuda -> Arisal (Named after a tribe)
+gabigabwuda -> Evéu -> Evóisal (Named after a tribe)
+peperwuda -> Bavé -> Bavaróisal -> Baróisal (Named after a tribe)
+
+deŋdoŋwuda -> Zézó -> Zézóisal
+gabigabwuda -> Evéu -> Evóisal
+peperwuda -> Bavé -> Bavaróisal -> Baróisal
+rajdermanwuda -> Rézéma -> Rézémóisal
+eziwuda -> Ara -> Arizasal -> Arisal
+--->
 
 The algorithm to generate this data is found below (in Python):
 <pre>

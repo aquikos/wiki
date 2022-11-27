@@ -7,6 +7,8 @@ A complete list of every sound change from Proto-Daimarian to Modern Liran.
 Currently, the list is in Lexurgy's *.lsc format, and I am not planning to update it to proper phonological rule syntax any time soon.
 It is too time costly, and is not worth the effort for such little tradeoff in the end. 
 
+There may or may not be issues in this page, but will be resolved if found. 
+
 <pre>
 Feature type(*cons, vowel)
 
@@ -159,6 +161,7 @@ comp-short:
   [vowel] [vowel] => [short vowel] [short vowel]
 
 hdropvshifts-3500:
+  {wiː, wuː, wyː, jiː, juː, jyː} => {yː, uː, yː, iː, yː, yː} / [cons] _ {[cons], $}
   {iy, yi, iu, ui, yu, uy} => yː
   {ii, yy, uu} => {iː, yː, uː}
   {eø, øe, eo, oe, øo, oø} => øː
@@ -269,8 +272,9 @@ schwadrop-2200:
   {lr, rl, ðr, rð, rʒ, ʒr} => r
   {r, l} => {a, u} / [cons] _ [cons]
   {ml, nl} => {mu, nu} / _ $
-  v => o / [cons] _ $
+  {l, v, r} => {u, o, a} / [cons] _ $
   {vw, wv} => w
+  {mm, nn, ww, rr, ll, jj, ff, vv, θθ, ðð, ss, zz, ʃʃ, ʒʒ} => {m, n, w, r, l, j, f, v, θ, ð, s, z, ʃ, ʒ}
 
 semi-correction-2100:
   ij => i / [vowel] _ {$, [cons]}
@@ -279,6 +283,7 @@ semi-correction-2100:
 
 vowelshifts3-2000:
   {ɪ, ʏ, ʊ} => {e, ø, o}
+  {ɪː, ʏː, ʊː} => {eː, øː, oː}
   Then:
   {ja, ea, ei, je, ai, aj} => eː / _ {[cons], $} // [vowel] _
   {ɥa, øa, ey, eu, øi, øy, øu, oi, oy, jø, jo, ɥe, ɥø, ɥo, we, wø, ay, aɥ} => øː / _ {[cons], $} // [vowel] _

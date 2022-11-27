@@ -1,6 +1,9 @@
 ---
-title: "Phonological History of Wiplang"
+title: "Phonological History of Manevian"
 ---
+
+There are a lot of known (and unknown) issues with this.
+Said issues are being resolved as fast as possible.
 
 <pre>
 Feature type(*cons, vowel)
@@ -154,9 +157,12 @@ monophthongization2:
   {ʌɯ, əɯ} => ʌ
   {ɔu, əu} => ɔ
 
+gh-shift:
+  ɣ => x
+
 semivowel-drop:
   {ij, yɥ, uw} => {i, y, u} / _ {$, [cons]}
-  {j, ɥ, w} => {i, y, u} / [vowel] _
+  {j, ɥ, w} => {i, y, u} / [vowel] _ // _ [vowel]
 
 nasalization:
   [vowel] [nasal] => [nasalized vowel] * / _ {[cons], $}
@@ -194,6 +200,8 @@ umlaut:
 h-drop-shifts:
   {h, ʔ} => *
   Then:
+  [vowel] [vowel] => [short vowel] [short vowel]
+  Then:
   {i, y, u} => {j, ɥ, w} / _ {e, ɛ, a, ø, œ, o, ɔ, ɒ}
   {e, ø, o} => {i, y, u} / {a, ɒ, ɛ, œ, ɔ} _
   {ɛ, œ, ɔ} => {a, a, ɒ} / _ {e, ø, o, i, y, u}
@@ -201,13 +209,16 @@ h-drop-shifts:
   {eø, øe, oø, øo, eo, oe} => øː
   {eɛ, ɛe} => eː
   {øɛ, ɛø, oɛ, ɛo, eœ, œo, oœ, œo, eɔ, ɔe, øɔ, ɔø} => øː 
+  ɔœ => œː
   {oɔ, ɔo} => oː
+  {ea, oa} => {eː, oː}
   {aɛ, ɛa} => ɛː
   {aœ, œa} => œː
   {aɔ, ɔa} => ɔː
   {ɒɛ, ɛɒ} => œː
   {ɒœ, œɒ} => œː
   {ɒɔ, ɔɒ} => ɔː
+  {ey, oy} => øː
   {i, y, u} => {j, ɥ, w} / [vowel] _ [vowel]
   {e, ø, o} => {j, ɥ, w} / [vowel] _ [vowel]
 
@@ -228,14 +239,14 @@ insert-stress3:
 )
 
 diphthongization2:
+  {ɛ, œ, ɔ, a, ɒ}&[unstressed] => ə
+  Then:
+  [vowel stressed] => [vowel unstressed]
+  Then:
   {iː, yː, uː} => {ei, øy, ou}
   {eː, øː, oː} => {ai, ay, au}
   {ɛː, œː, ɔː} => {e, ø, o}
   {aː, ɶː, ɒː} => {ɛ, œ, ɔ}
-  {ɛ, œ, ɔ, a, ɒ}&[unstressed] => ə
-
-remove-stress:
-  [vowel stressed] => [vowel unstressed]
 
 palatalization:
   {k, g, x, ɣ} {j, i, e, ɛ} => {c, ɟ, ç, ʝ} {*, e, ɛ, a}
@@ -245,13 +256,21 @@ schwa-drop:
   ə => *
 
 post-shifts:
+  {lr, rl} => r
+  Then:
   [vowel] {f, θ, s, ʃ, h, m, n, r} => [vowel long] * / _ {[cons], $}
+  {ei, ey, øi, øy, oi, oy, ou, ai, ay, au} => {eː, øː, øː, øː, øː, øː, oː, ɛː, œː, ɔː}
+  Then:
   {j, ɥ, w, l} => {i, y, u, i} / [vowel] _ {[cons], $}
   Then:
   {ii, yy, uu} => {iː, yː, uː}
   {iy, iu, ui, uy, yi, yu} => {yː}
   [voiced plosive] [voiceless] => [voiceless] 
   [voiced fricative] [voiceless] => [voiceless]
+
+rounding-and-place-assimilation:
+  {eu, ey, øi, oi} => øy
+  {ɛ, œ, ɔ} i => a i
 
 vowel-shifts2:
   [vowel] {iː, yː, uː} => [vowel] {i, y, u}
@@ -270,14 +289,18 @@ palatal-shifts:
   {c, ɟ, {ç, x}, ʝ} => {s, z, h, j}
   
 h-shifts:
-  {i, {y, u}, e, {ø, o}, ɛ, {œ, ɔ}, a} h => {iː, uː, eː, oː, ɛː, ɔː, ɑː} * / _ {[cons], $}
+  {i, {y, u}, e, {ø, o}, ɛ, {œ, ɔ}, a} h => {iː, uː, eː, oː, ɛː, ɔː, ɑː} * / _ {[cons], $} // [vowel] _
+  [vowel] h => [vowel] * / [vowel] _
 
 vowel-breaking:
   {e, ø, o} => {ie, yø, uo} / _ [cons] // {[lateral], [tap], [trill], [approximant]} _
   {ɛ, œ, ɔ} => {e, ø, o}
 
+unrounding2:
+  {ɥ, y, ø} => {j, i, e}
+
 misc-shifts:
-  {t, d, s, z, θ, l, r, n} ie => {tʃ, dʒ, ʃ, ʒ, ç, ʎ, ʝ, ɳ} e
+  {t, d, f, v, s, z, θ, l, r, n} ie => {tʃ, dʒ, ç, ʝ, ʃ, ʒ, ç, ʎ, ʝ, ɲ} e
   {t, d, θ, n} uo => {p, b, f, m} o
   {p, b, f, m} uo => w o
   {k, g} uo => w o
@@ -285,10 +308,15 @@ misc-shifts:
 vowel-shifts4:
   {iː, uː, eː, oː, ɛː, ɔː, ɑː} => {ei, ou, ai, au, i, u, o}
 
-unrounding2:
-  {ʎ, ʝ} => j
-  {ɥ, y, ø} => {j, i, e}
-
 semi-shift:
   {i, u} => {j, w} / _ [vowel]
+
+gh-removal:
+  ɣ j => j *
+  ʝ j => j *
+
+modern-romanizer:
+  {θ, ʃ, ç, ɣ} => {th, sh, ch, gh}
+  {je, wo} => {ie, uo} // [vowel] _
+  {ʎ, ɲ, j} => {ly, ny, y}
 </pre>

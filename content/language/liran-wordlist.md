@@ -53,7 +53,7 @@ If it is polysyllabic and contains closed syllables, there is a reasonable chanc
     
 ##### Etymology
 
-&emsp;From Proto-Daimarian *reŋ, meaning "this, that".
+&emsp;From Proto-Daimarian *reng, meaning "this, that".
 
 ##### Article
 
@@ -69,7 +69,7 @@ If it is polysyllabic and contains closed syllables, there is a reasonable chanc
     
 ##### Etymology
 
-&emsp;From Proto-Daimarian *, meaning .
+&emsp;From Proto-Daimarian *raj, meaning .
 
 ##### Suffix
 
@@ -499,11 +499,11 @@ From Proto-Daimarian *s'in, meaning "".
 
 
 
-### moru
+### maru
 
 ##### Pronunciation
 
-&emsp;/mɔru/
+&emsp;/maru/
     
 ##### Etymology
 
@@ -575,8 +575,7 @@ From Proto-Daimarian *s'in, meaning "".
 
 ##### Noun
 
-&emsp;1. Council
-
+&emsp;1. Council, Board
 
 
 ### ró
@@ -627,6 +626,33 @@ From Proto-Daimarian *s'in, meaning "".
 
 &emsp;1. to rule, to lead
 
+
+
+### égó
+
+##### Pronunciation
+
+&emsp;/ego/
+
+##### Etymology
+
+&emsp;From Proto-Daimarian *'arkor, meaning "to split, to divide".
+
+##### Verb
+
+&emsp;1. to divide (in the social sense).
+
+
+
+### égómun
+
+##### Pronunciation
+
+&emsp;/egomun/
+
+##### Etymology
+
+&emsp;From égó + muna
 
 
 ### ali
@@ -693,11 +719,11 @@ From Proto-Daimarian *s'in, meaning "".
 
 
 
-### Burasa
+### Bóus
 
 ##### Pronunciation
 
-&emsp;/buɾəsa/
+&emsp;/bous/
     
 ##### Etymology
 
@@ -793,7 +819,7 @@ From Proto-Daimarian *s'in, meaning "".
 
 ##### Pronunciation
 
-&emsp;/sai/
+&emsp;/sajəsa/
     
 ##### Etymology
 
@@ -1063,11 +1089,11 @@ From Proto-Daimarian *s'in, meaning "".
 
 
 
-### du
+### do
 
 ##### Pronunciation
 
-&emsp;/du/
+&emsp;/dɔ/
     
 ##### Etymology
 
@@ -1167,15 +1193,15 @@ From Proto-Daimarian *s'in, meaning "".
 
 
 
-### Kenemó
+### Kenemói
 
 ##### Pronunciation
 
-&emsp;/kɛnɛmo/
+&emsp;/kɛnɛmoi/
     
 ##### Etymology
 
-&emsp;From Proto-Daimarian *k'unin + *so, .
+&emsp;From Proto-Daimarian *k'unin + *mow + *wuda.
 
 ##### Noun
 
@@ -1183,15 +1209,15 @@ From Proto-Daimarian *s'in, meaning "".
 
 
 
-### Daimó
+### Daimói
 
 ##### Pronunciation
 
-&emsp;/daimo/
+&emsp;/daimoi/
     
 ##### Etymology
 
-&emsp;From Proto-Daimarian *titama + *so, 
+&emsp;From Proto-Daimarian *titama + *mow + *wuda, 
 
 ##### Noun
 
@@ -1342,11 +1368,11 @@ From Proto-Daimarian *s'in, meaning "".
 
 
 
-### Óimósa
+### Óimóu
 
 ##### Pronunciation
 
-&emsp;/oimosa/
+&emsp;/oimou/
 
 ##### Etymology
 
@@ -1371,3 +1397,56 @@ From Proto-Daimarian *s'in, meaning "".
 ##### Noun
 
 &emsp;1. A homosexual (independent of sex).
+
+
+
+### Manevi
+
+##### Pronunciation
+
+&emsp;/manɛvi/
+
+##### Etymology
+
+&emsp;From Proto-Daimarian *manimpin, of unknown meaning.
+
+##### Noun
+
+&emsp;1. A Manevian person.
+
+
+
+### tal
+
+##### Pronunciation
+
+&emsp;/tal/ (lemma)
+
+&emsp;/səla/ (ultimate stress)
+
+&emsp;/sal/ (Penultimate stress)
+
+##### Etymology
+
+&emsp;From Proto-Daimarian *t'aslo, meaning "to cut, to separate".
+
+##### Suffix
+
+&emsp;1. State, Province, Region (First level subdivision).
+
+<!---
+jufrur    => yuru   => juru
+townad    => dóuz   => douz
+vofnil    => éinó   => eino
+nasib     => naza   => nazə
+tʼoluzneɣ => taluné => talune
+tʼoluz    => talu   => talu
+karfesta  => garéza => gareza
+wenemoj   => enamé  => ɛnəme
+milmaj    => maumé    => maume
+nejlvemeg => nélemé   => nelɛme
+jekʼensʼar => exésé    => ɛʃese
+
+nurinjil   => neréu    => nɛreu
+kʼejman    => xim      => ʃim
+--->
