@@ -2,7 +2,7 @@
 title: "Liran"
 ---
 
-Liran is one of the most widely spoken languages on the planet Oimosa.
+Liran is one of the most widely spoken languages on the planet Óimóu.
 Its English name comes from the Liran word ⟨Liré⟩, meaning "liran". 
 
 ## History

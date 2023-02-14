@@ -569,7 +569,7 @@ From Proto-Daimarian *s'in, meaning "".
 
 ##### Noun
 
-&emsp;1. A Liran person
+&emsp;1. The Liran People
 
 
 
