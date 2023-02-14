@@ -96,7 +96,7 @@ Symbol ɑ [open back vowel]
 
 proto-to-east-5600:
   [ejective plosive] => [voiceless plosive]
-  [voiceless plosive] => [voiced plosive]
+  [voiceless plosive] => [voiced plosive] // _ [voiceless fricative]
   [voiced plosive] => [nonsib voiced fricative]
   [ejective fricative] => [voiceless fricative]
   {v, z, ɣ} => {w, r, j}
@@ -305,7 +305,7 @@ elision-1400:
   l => ɫ / [vowel] _ {[cons], $}
   {i, y, u, e, ø, o, ɛ, œ, ɔ, a, ɑ, iː, yː, uː, eː, øː, oː, ɛː, œː, ɔː, aː, ɑː} [nasal] => {iː, yː, uː, eː, øː, oː, ɛː, œː, ɔː, aː, ɑː, iː, yː, uː, iː, yː, uː, eː, øː, oː, eː, oː} * / _ {[cons], $}
   Then:
-  {lr, rr} => r
+  {lr, rr, rl} => r
 
 r-elision-1100:
   {i, y, u, e, ø, o, ɛ, œ, ɔ, a, ɑ, iː, yː, uː, eː, øː, oː, ɛː, œː, ɔː, aː, ɑː} [trill] => {iː, yː, uː, eː, øː, oː, ɛː, œː, ɔː, aː, ɑː, iː, yː, uː, iː, yː, uː, eː, øː, oː, eː, oː} * / _ {[cons], $}

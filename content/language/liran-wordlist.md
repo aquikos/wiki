@@ -7,10 +7,6 @@ The list may not always be exhaustive, but it should be mostly up-to-date.
 
 This page is currently under construction, so it may not be formatted properly yet.
 
-A large problem with the sound changes, so take the modern versions of words with a grain of salt. 
-If a word is monosyllabic, it is still correct.
-If it is polysyllabic and contains closed syllables, there is a reasonable chance it is incorrect.
-
 ### émaru
 
 ##### Pronunciation 
@@ -21,11 +17,41 @@ If it is polysyllabic and contains closed syllables, there is a reasonable chanc
 
 &emsp;From Proto-Daimarian *osmaghrur, meaning high or large, at least in the sense of height.
     
+##### Noun
+
+&emsp;1. Chief, head, leader
+
+
+
+### émarum
+
+##### Pronunciation
+
+&emsp;/emaɾum/
+
+##### Etymology
+
+&emsp;émaru + -m
+
 ##### Adjective
 
 &emsp;1. Chief, head, leader
 
-&emsp;&emsp;a. sénórémós 
+
+
+### -jé
+
+##### Pronunciation
+
+&emsp;/ʒe/
+
+##### Etymology
+
+&emsp;From Proto-Daimarian *ker
+
+##### Suffix
+
+&emsp;1. One who performs the action of the root verb.
 
 
 
@@ -617,7 +643,7 @@ From Proto-Daimarian *s'in, meaning "".
 ##### Pronunciation
 
 &emsp;/seno/
-    
+
 ##### Etymology
 
 &emsp;From Proto-Daimarian *segnos, meaning "to rule, to lead".
@@ -653,6 +679,23 @@ From Proto-Daimarian *s'in, meaning "".
 ##### Etymology
 
 &emsp;From égó + muna
+
+
+
+### nayó
+
+##### Pronunciation
+
+&emsp;/najo/
+
+##### Etymology
+
+&emsp;From Proto-Daimarian *nakow
+
+##### Noun
+
+&emsp;1. Center, middle.
+
 
 
 ### ali
@@ -857,7 +900,9 @@ From Proto-Daimarian *s'in, meaning "".
     
 ##### Etymology
 
-&emsp;From Proto-Daimarian *ulin, meaning .
+&emsp;From Proto-Daimarian *ulin, meaning.
+
+
 
 
 
@@ -893,7 +938,12 @@ From Proto-Daimarian *s'in, meaning "".
     
 ##### Etymology
 
-&emsp;From Proto-Daimarian *nujsi, meaning .
+&emsp;From Proto-Daimarian *nujsi, meaning man.
+
+##### Noun
+
+&emsp;1. A male.
+
 
 
 
@@ -929,7 +979,7 @@ From Proto-Daimarian *s'in, meaning "".
     
 ##### Etymology
 
-&emsp;From Proto-Daimarian *silem, meaning .
+&emsp;From Proto-Daimarian *silem, meaning "army, force".
 
 
 
@@ -1193,7 +1243,7 @@ From Proto-Daimarian *s'in, meaning "".
 
 
 
-### Kenemói
+### Kemói
 
 ##### Pronunciation
 
@@ -1434,11 +1484,159 @@ From Proto-Daimarian *s'in, meaning "".
 
 &emsp;1. State, Province, Region (First level subdivision).
 
+
+
+### móri
+
+##### Pronunciation
+
+&emsp;/moɾi/
+
+##### Etymology
+
+&emsp;From Proto-Daimarian *mosruj, meaning ocean, sea, large body of water.
+
+##### Noun
+
+&emsp;1. Air
+
+
+
+### Usalé
+
+##### Pronunciation
+
+&emsp;/usale/
+
+##### Etymology
+
+&emsp;Equivalent to ói + selé.
+
+##### Noun
+
+&emsp;1. Typically refers to a country's national armed forces, though it is often used alone to describe the Liran Armed Forces.
+
+
+
+### Nasalé
+
+##### Pronunciation
+
+&emsp;/nasale/
+
+##### Etymology
+
+&emsp;Equivalent to *nasib + *silem
+
+##### Noun
+
+&emsp;1. Typically refers to a country's navy, though it is often used alone to describe the Liran Naval forces.
+
+
+
+### Móriselé
+
+##### Pronunciation
+
+&emsp;/moɾisɛle/
+
+##### Etymology
+
+&emsp;Equivalent to móri + selé
+
+##### Noun
+
+&emsp;1. Typically refers to a country's airforce, though it is often used alone to describe the Liran Airforce.
+
+
+
+### óu
+
+##### Pronunciation
+
+&emsp;/ou/
+
+##### Etymology
+
+&emsp;From Proto-Daimarian *vos, meaning "fabric, cloth"
+
+##### Prefix
+
+&emsp;1. Flag; banner
+
+
+
+### gama
+
+##### Pronunciation
+
+&emsp;/gamə/
+
+##### Etymology
+
+&emsp;From Proto-Daimarian *kamu, meaning "to carry, to bear"
+
+##### Verb
+
+&emsp;1. (transitive) to hold, to carry, to bear
+
+
+
+### Uma
+
+##### Pronunciation
+
+&emsp;/umə/
+
+##### Etymology
+
+&emsp;Equivalent to óu + gama
+
+##### Noun
+
+&emsp;1. Lowest rank in the Usalé. Literally means "flag holder"
+
+
+
+### bé
+
+##### Pronunciation
+
+&emsp;/be/
+
+##### Etymology
+
+&emsp;From Proto-Daimarian *pose, meaning "odd, strange"
+
+##### Prefix
+
+&emsp;1. Denotes a special or skilled variant of the noun it is attached to. 
+
+
+
+### uru
+
+##### Pronunciation
+
+&emsp;/uɾu/
+
+##### Etymology
+
+&emsp;From Old Manevian *aurou*. Compare Liran *émaru* <!-- Old Manevian: 1100ya -->
+&emsp;Note: Old Manevian diphthongs were leveled, hence it is not irregular. 
+
+##### Adjective
+
+&emsp;1. ?
+
+
+
+
 <!---
-jufrur    => yuru   => juru
+jufrur    => yuru   => juru (adjective of some sort - good thing)
 townad    => dóuz   => douz
 vofnil    => éinó   => eino
-nasib     => naza   => nazə
+nasib     => naza   => nazə (boat)
 tʼoluzneɣ => taluné => talune
 tʼoluz    => talu   => talu
 karfesta  => garéza => gareza
@@ -1446,7 +1644,26 @@ wenemoj   => enamé  => ɛnəme
 milmaj    => maumé    => maume
 nejlvemeg => nélemé   => nelɛme
 jekʼensʼar => exésé    => ɛʃese
+nekus     => nayu    => naju
 
 nurinjil   => neréu    => nɛreu
+
+
+
+
 kʼejman    => xim      => ʃim
+
+mori
+mureː
+mosrore
+
+
+
+
+
+
+
+
+
+
 --->

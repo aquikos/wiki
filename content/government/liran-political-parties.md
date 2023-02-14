@@ -5,7 +5,7 @@ title: "Liran Political Parties"
 
 
 ### NYM
-Rétómun Nayóma Liré(lit. party central liran, "Liran Centrist Party"), or just Nayóma, represented by dark green, is a moderately progressive party in the Liran Republic.
+Égómun Nayóma Liré(lit. party central liran, "Liran Centrist Party"), or just Nayóma, represented by dark green, is a moderately progressive party in the Liran Republic.
 Nayóma is especially popular among the youth, and has seen a large spike in popularity because of it.  
 
 ### LZR

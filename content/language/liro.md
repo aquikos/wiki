@@ -79,4 +79,22 @@ For best practice, however, it should always be used despite the lack of distinc
 | ɛ, ɔ |     e, e     |
 |   ə  |       a      |
 
+<!--- 
+Grammatical Changes:
+
+Original Dative -> Genitive
+
+Original Genitive -> General Suffix
+
+Accusative -> Dative
+
+New Locative Cases Emerge:
+
+  Allative
+  Illative
+  Elative
+  Inessive
+  Adessive
+
+--->
 

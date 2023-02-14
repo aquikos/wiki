@@ -91,7 +91,7 @@ Symbol a [open central vowel]
 Symbol ɑ [open back vowel]
 Symbol ɒ [open back rounded vowel]
 
-consonant-shifts1:
+consonant-shifts1-5500:
   {pʼ, tʼ, kʼ} => {p, t, q}
   {p, t, k} => {f, θ, χ}
   {b, d, g} => {w, l, ʁ}
@@ -100,18 +100,18 @@ consonant-shifts1:
   {v, z, ɣ} => {w, l, ʁ}
   ŋ => ɴ
 
-cons-shifts:
+cons-shifts-5300:
   ɴ => n
   {uw, ij} => {w, j} / _ [vowel]
   {wu, ji} => {u, i} / [vowel] _
 
-monophthongization:
+monophthongization-5000:
   {ju, je, jo, ja} => {yː, eː, øː, eː} // [vowel] _
   {wi, we, wo, wa} => {yː, øː, oː, oː} // [vowel] _
   {uj, ej, oj, aj} => {yː, eː, øː, eː} // _ [vowel]
   {iw, ew, ow, aw} => {yː, øː, oː, oː} // _ [vowel]
 
-vc-shifts:
+vc-shifts-4900:
   {il, iːl} => {y, yː} / _ {[cons], $}
   yːl => uː / _ {[cons], $}
   {ul, uːl} => {u, uː} / _ {[cons], $}
@@ -134,21 +134,21 @@ vc-shifts:
   {oχ, oːχ} => {o, oː} / _ {[cons], $}
   aχ => ɑ  / _ {[cons], $}
 
-debuccalization:
+debuccalization-4600:
   [vowel short] {f, θ, s, ʃ, χ, h} => [vowel long] * / _ {[cons], $}
 
-diphthongization:
+diphthongization-4300:
   {iː, yː, ɯː, uː} => {ei, øy, ɤɯ, ou}
   {eː, øː, ɤː, oː} => {ai, ay, aɯ, au}
   aː => e / {[alveolar], [labial], [palatal], $} _ 
   aː => o / [uvular] _
 
-uvular-shifts:
+uvular-shifts-4100:
   [uvular] {i, y, ɯ, u, e, ø, ɤ, o, a} => [velar] {ɪ, ʏ, ɯ̽, ʊ, ɛ, œ, ʌ, ɔ, ɑ}
   [uvular] {ei, øy, ɤɯ, ou} => [velar] {ɛi, œy, ʌɯ, ɔu}
   [uvular] {ai, ay, aɯ, au} => [velar] {əi, əy, əɯ, əu}
 
-monophthongization2:
+monophthongization2-3800:
   {ei, øy, ɤɯ, ou} => {i, y, ɯ, u}
   {ai, ay, aɯ, au} => {e, ø, ɤ, o}
   {ɪ, ʏ, ɯ̽, ʊ, ɛ, ɑ, a} => {e, ø, ɤ, o, a, ɑ, a}
@@ -157,17 +157,17 @@ monophthongization2:
   {ʌɯ, əɯ} => ʌ
   {ɔu, əu} => ɔ
 
-gh-shift:
+gh-shift-3600:
   ɣ => x
 
-semivowel-drop:
+semivowel-drop-3400:
   {ij, yɥ, uw} => {i, y, u} / _ {$, [cons]}
   {j, ɥ, w} => {i, y, u} / [vowel] _ // _ [vowel]
 
 nasalization:
   [vowel] [nasal] => [nasalized vowel] * / _ {[cons], $}
 
-denasalization:
+denasalization-3200:
   {ĩ, ỹ, ɯ̃, ũ} => {e, ø, ɤ, o}
   {ẽ, ø̃, ɤ̃, õ} => {ɛ, œ, ʌ, ɔ}
   {ɛ̃, œ̃, ʌ̃, ɔ̃} => {a, ɶ, ɑ, ɒ}
@@ -175,21 +175,21 @@ denasalization:
   ɑ̃ => ɔ / [velar] _
   Then: [vowel nasalized] => [vowel short]
 
-vowel-assimilation:
+vowel-assimilation-3000:
   [front rounded vowel] => [unrounded]
   [back unrounded vowel] => [rounded]
 
-monophthongization3:
+monophthongization3-2700:
   {ei, ou} => {i, u}
   {ɛi, ɔu} => {e, o}
   {ai, au} => {ɛ, ɔ}
   {ɒi, ɒu} => {œ, ɔ}
 
-intv-lenition:
+intv-lenition-2400:
   {p, t, k} => {f, θ, x} / [vowel] _ [vowel]
   x => h / [vowel] _ [vowel]
 
-umlaut:
+umlaut-2200:
   a => æ
   {u, o, ɔ, ɒ} => {y, ø, œ, a} / _ [cons] {i, e, ɛ}
   Then:
@@ -197,7 +197,7 @@ umlaut:
   Then:
   æ => a
 
-h-drop-shifts:
+h-drop-shifts-2200:
   {h, ʔ} => *
   Then:
   [vowel] [vowel] => [short vowel] [short vowel]
@@ -222,7 +222,7 @@ h-drop-shifts:
   {i, y, u} => {j, ɥ, w} / [vowel] _ [vowel]
   {e, ø, o} => {j, ɥ, w} / [vowel] _ [vowel]
 
-monophthongization4:
+monophthongization4-2000:
   je => eː // [vowel] _
   {jø, jo, ɥe, ɥø, ɥo, we, wø} => øː // [vowel] _
   wo => oː // [vowel] _
@@ -238,7 +238,7 @@ insert-stress3:
   [vowel unstressed] => [vowel stressed] / [cons] _ [cons]? [cons] [vowel] [cons]? $
 )
 
-diphthongization2:
+diphthongization2-1800:
   {ɛ, œ, ɔ, a, ɒ}&[unstressed] => ə
   Then:
   [vowel stressed] => [vowel unstressed]
@@ -248,14 +248,14 @@ diphthongization2:
   {ɛː, œː, ɔː} => {e, ø, o}
   {aː, ɶː, ɒː} => {ɛ, œ, ɔ}
 
-palatalization:
+palatalization-1600:
   {k, g, x, ɣ} {j, i, e, ɛ} => {c, ɟ, ç, ʝ} {*, e, ɛ, a}
   {t, d, s, z} j => {tʃ, dʒ, ʃ, ʒ} *
 
-schwa-drop:
+schwa-drop-1500:
   ə => *
 
-post-shifts:
+post-shifts-1400:
   {lr, rl} => r
   Then:
   [vowel] {f, θ, s, ʃ, h, m, n, r} => [vowel long] * / _ {[cons], $}
@@ -268,11 +268,11 @@ post-shifts:
   [voiced plosive] [voiceless] => [voiceless] 
   [voiced fricative] [voiceless] => [voiceless]
 
-rounding-and-place-assimilation:
+rounding-and-place-assimilation-1200:
   {eu, ey, øi, oi} => øy
   {ɛ, œ, ɔ} i => a i
 
-vowel-shifts2:
+vowel-shifts2-1100:
   [vowel] {iː, yː, uː} => [vowel] {i, y, u}
   Then:
   {ei, øy, ou} => {i, y, u}
@@ -285,30 +285,30 @@ vowel-shifts2:
   {e, ø, o} => {ɛ, œ, ɔ}
   {ɛ, œ, ɔ, a, ɒ} => a
 
-palatal-shifts:
+palatal-shifts-900:
   {c, ɟ, {ç, x}, ʝ} => {s, z, h, j}
   
-h-shifts:
+h-shifts-700:
   {i, {y, u}, e, {ø, o}, ɛ, {œ, ɔ}, a} h => {iː, uː, eː, oː, ɛː, ɔː, ɑː} * / _ {[cons], $} // [vowel] _
   [vowel] h => [vowel] * / [vowel] _
 
-vowel-breaking:
+vowel-breaking-600:
   {e, ø, o} => {ie, yø, uo} / _ [cons] // {[lateral], [tap], [trill], [approximant]} _
   {ɛ, œ, ɔ} => {e, ø, o}
 
-unrounding2:
+unrounding2-500:
   {ɥ, y, ø} => {j, i, e}
 
-misc-shifts:
+misc-shifts-400:
   {t, d, f, v, s, z, θ, l, r, n} ie => {tʃ, dʒ, ç, ʝ, ʃ, ʒ, ç, ʎ, ʝ, ɲ} e
   {t, d, θ, n} uo => {p, b, f, m} o
   {p, b, f, m} uo => w o
   {k, g} uo => w o
 
-vowel-shifts4:
+vowel-shifts4-300:
   {iː, uː, eː, oː, ɛː, ɔː, ɑː} => {ei, ou, ai, au, i, u, o}
 
-semi-shift:
+semi-shift-200:
   {i, u} => {j, w} / _ [vowel]
 
 gh-removal:

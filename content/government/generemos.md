@@ -1,5 +1,5 @@
 ---
-title: "Génarémóu"
+title: "Générémóu"
 ---
 
 The Générémóu, or, more specifically, the Générémóu Liré, is the highest legislative body in the Liran Republic. 
@@ -58,6 +58,48 @@ gabigabwuda -> Evéu -> Evóisal
 peperwuda -> Bavé -> Bavaróisal -> Baróisal
 rajdermanwuda -> Rézéma -> Rézémóisal
 eziwuda -> Ara -> Arizasal -> Arisal
+
+Kemói - 34 seats
+
+    NYM
+    LZR
+
+
+Daimói - 24 
+
+
+
+Dévisal - 19
+
+
+
+Talusal - 16
+
+
+
+Exésésal - 12
+
+
+
+Ximsal - 10
+
+
+
+Arisal
+
+
+
+Evóisal
+
+
+
+Baróisal
+
+
+
+
+
+
 --->
 
 The algorithm to generate this data is found below (in Python):
