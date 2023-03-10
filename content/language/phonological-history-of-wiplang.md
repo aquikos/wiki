@@ -1,7 +1,8 @@
 ---
-title: "Phonological History of WIP"
+title: "Phonological History of Wiplang"
 ---
 
+<pre>
 Feature type(*cons, vowel)
 
 Feature place(labial, alveolar, postalveolar, palatal, velar, glottal)
@@ -114,16 +115,17 @@ h-drop:
 
 h-drop-v-shift:
   {i, u} => {j, w} / [vowel] _ [vowel]
+  Then:
   {ui, iu, io, ue} => yː
   {oi, eu, oe, eo} => øː
   {ei, ai, ia, ae, ea} => eː
   {ou, ao, oa} => oː
   {ie, uo} => {iː, uː}
 
-intv-len: 
+intv-len:
   {p, t, k} => {f, s, x} / [vowel] _ [vowel]
   {p, t, k} => {f, s, x} / _ {$, [cons]}
- 
+
 onsetless-metathesis2:
   [vowel]$1 [cons]$2 => $2 $1 / _ {$, ![vowel]} // [cons] _
   Then:
@@ -149,14 +151,14 @@ l-mutation:
   [front vowel] l => [back rounded vowel] * / _ {$, [cons]}
   [front vowel] l => [front rounded vowel] r / _ [vowel]
   [back rounded vowel] l => [long] * / _ {$, [cons]}
-  Then: 
+  Then:
   [open back rounded vowel] => [unrounded]
   [open front rounded vowel] => [back unrounded]
 
 insert-stress:
   [vowel unstressed] => [vowel stressed] / $ [cons]? _ [cons]? $
   [vowel unstressed] => [vowel stressed] / $ [cons]? [vowel] [cons] [cons]? _
-  Then:
+  Then: 
   [vowel unstressed] => [stressed] / [vowel unstressed] [cons] [cons]? _ [cons]? $
 
 unstressed-reduction:
@@ -186,8 +188,28 @@ velar-shifts:
 
 vshifts:
   əɨ => ɨː
-  [vowel] {ə, ɨ} => [long] * 
+  [vowel] {ə, ɨ} => [long] *
   {ə, ɨ} [vowel] => * [long]
 
 vshifts2:
+  {iː, eː, uː, oː, aː, ɑː, ɨː, əː} [vowel] => {i, i, u, u, ɑ, o, i, ɨ} [vowel]
+  Then:
+  {ei, ai, ou, au, ɑi, ɑu} => {eː, ɛː, oː, ɔː, ɛː, ɔː} / _ [cons] {$, [cons]}
+
+lvshifts:
+  {iː, eː, ɛː, uː, oː, ɔː, aː, ɑː, ɨː, əː} => {ei, ai, e, ou, au, o, e, o, i, ɨ} // _ [cons] {$, [cons]}
+  {iː, eː, ɛː, uː, oː, ɔː, aː, ɑː, ɨː, əː} => {i, e, ɛ, u, o, ɔ, ɛ, o, i, ɨ} / _ [cons] {$, [cons]}
+
+corrections:
+  {uw, ij} => {w, j} / _ [vowel]
+
+modern-romanizer:
+  ɨ => ŷ
+  e => ê
+  o => ô
+  ɛ => e
+  ɔ => o
+  ə => y
+
   
+</pre>
