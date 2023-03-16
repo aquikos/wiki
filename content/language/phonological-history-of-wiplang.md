@@ -170,15 +170,14 @@ strdel:
 
 front-unrounding:
   [front rounded vowel] => [unrounded]
-  [central rounded vowel] => [unrounded]
 
 r-to-l:
   r => l / _ [vowel] r
 
 long-vowel-changes:
   {iː, eː, uː, oː, aː, ɑː} => {ei, ai, ou, au, ɑ, o}
-  {ɨː, ɪː, ʊː, ɐː} => {i, e, o, ɑ}
-  {ɪ, ʊ} => ɨ
+  {ɨː, ʉː, ɪː, ʊː, ɐː} => {i, u, e, o, ɑ}
+  {ɪ, ʊ} => {ɨ, ʉ}
   ɐ => ə
 
 velar-shifts:
@@ -187,18 +186,19 @@ velar-shifts:
   [ejective] => [voiceless]
 
 vshifts:
-  əɨ => ɨː
-  [vowel] {ə, ɨ} => [long] *
-  {ə, ɨ} [vowel] => * [long]
+  {əɨ, əʉ} => {ɨː, ʉː}
+  [vowel] {ə, ɨ, ʉ} => [long] *
+  {ə, ɨ, ʉ} [vowel] => * [long]
 
 vshifts2:
-  {iː, eː, uː, oː, aː, ɑː, ɨː, əː} [vowel] => {i, i, u, u, ɑ, o, i, ɨ} [vowel]
+  {iː, eː, uː, oː, aː, ɑː, ɨː, ʉː, əː} [vowel] => {i, i, u, u, ɑ, o, i, u, ɨ} [vowel]
+  {eo, oe, ae, ao, ɑe, ɑo} => {eu, oi, ai, au, ɑi, ɑu}
   Then:
-  {ei, ai, ou, au, ɑi, ɑu} => {eː, ɛː, oː, ɔː, ɛː, ɔː} / _ [cons] {$, [cons]}
+  {ei, oi, ai, eu, ou, au, ɑi, ɑu} => {eː, eː, ɛː, oː, oː, ɔː, ɛː, ɔː} / _ [cons] {$, [cons]}
 
 lvshifts:
-  {iː, eː, ɛː, uː, oː, ɔː, aː, ɑː, ɨː, əː} => {ei, ai, e, ou, au, o, e, o, i, ɨ} // _ [cons] {$, [cons]}
-  {iː, eː, ɛː, uː, oː, ɔː, aː, ɑː, ɨː, əː} => {i, e, ɛ, u, o, ɔ, ɛ, o, i, ɨ} / _ [cons] {$, [cons]}
+  {iː, eː, ɛː, uː, oː, ɔː, aː, ɑː, ɨː, ʉː, əː} => {ei, ai, e, ou, au, o, e, o, i, u, ɨ} // _ [cons] {$, [cons]}
+  {iː, eː, ɛː, uː, oː, ɔː, aː, ɑː, ɨː, ʉː, əː} => {i, e, ɛ, u, o, ɔ, ɛ, o, i, u, ɨ} / _ [cons] {$, [cons]}
 
 corrections:
   {uw, ij} => {w, j} / _ [vowel]
@@ -210,7 +210,7 @@ insert-stress2:
   [vowel unstressed] => [stressed] / [vowel unstressed] [cons] [cons]? _ [cons]? $
 
 vdel:
-  ɨ => * / $ [cons]? _ [cons] [cons]? [vowel]
+  {ɨ, ʉ} => * / $ [cons]? _ [cons] [cons]? [vowel]
   [unstressed mid central vowel] => *
   [stressed mid central vowel] => ɨ
 
@@ -245,15 +245,18 @@ approx-v-shifts:
   {ij, uw} => {j, w} / _ [vowel]
   {j, w} => {i, u} / [vowel] _ {$, [cons]}
   Then:
-  {iu, ui} => ɨ
+  {iu, ui} => {ɨ, }
 
 modern-romanizer:
+  ɨ => y
+  ʉ => w
   e => ê
   o => ô
   ɑ => â
   ɛ => e
   ɔ => o
-  ɨ => y
+  j => i
+  w => u
   ʃ => sj
   c => kj
   ç => hj
