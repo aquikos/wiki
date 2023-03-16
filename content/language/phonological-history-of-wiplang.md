@@ -158,7 +158,7 @@ l-mutation:
 insert-stress:
   [vowel unstressed] => [vowel stressed] / $ [cons]? _ [cons]? $
   [vowel unstressed] => [vowel stressed] / $ [cons]? [vowel] [cons] [cons]? _
-  Then: 
+  Then:
   [vowel unstressed] => [stressed] / [vowel unstressed] [cons] [cons]? _ [cons]? $
 
 unstressed-reduction:
@@ -203,13 +203,61 @@ lvshifts:
 corrections:
   {uw, ij} => {w, j} / _ [vowel]
 
+insert-stress2:
+  [vowel unstressed] => [vowel stressed] / $ [cons]? _ [cons]? $
+  [vowel unstressed] => [vowel stressed] / $ [cons]? [vowel] [cons] [cons]? _
+  Then:
+  [vowel unstressed] => [stressed] / [vowel unstressed] [cons] [cons]? _ [cons]? $
+
+vdel:
+  ɨ => * / $ [cons]? _ [cons] [cons]? [vowel]
+  [unstressed mid central vowel] => *
+  [stressed mid central vowel] => ɨ
+
+stdel2:
+  [vowel stressed] => [unstressed]
+
+cons-clusters:
+  {l, n, m, r}$1 {f, s}$2 => $2 $1 // [vowel] _
+  j$1 {p, t, k, f, s, h, m, n, l, r}$2 => $2 $1 // [vowel] _
+  Then:
+  {ww, ll, rr, jj} => {w, l, r, j}
+  {pp, tp, kp} => {p, tw, kw}
+  {pt, tt, kt} => {pr, t, kr}
+  {pk, tk, kk} => {pj, tj, k}
+  {pf, tf, kf} => {pw, tw, kw}
+  {ps, ts, ks} => {pr, tr, kr}
+  {t, k, f, s, h, l, n, m} j => {c, c, ç, ʃ, ç, ʎ, ɲ, ɲ} *
+  {m, n} {l, r, j} => {b, d} {l, r, j}
+  {f, s} => {p, t} / _ r
+  {lr, rl} => r
+  {lm, ln} => {bl, dl}
+  {sf, fs} => {sw, pr}
+  {jw, wj} => {w, j} // [vowel] _
+  Then:
+  dl => dr
+  Then:
+  {b, d} => {p, t}
+
+approx-v-shifts:
+  {ji, wu} => {i, u}
+  {ij, uw} => {i, u} / _ {$, [cons]}
+  {ij, uw} => {j, w} / _ [vowel]
+  {j, w} => {i, u} / [vowel] _ {$, [cons]}
+  Then:
+  {iu, ui} => ɨ
+
 modern-romanizer:
-  ɨ => ŷ
   e => ê
   o => ô
+  ɑ => â
   ɛ => e
   ɔ => o
-  ə => y
-
+  ɨ => y
+  ʃ => sj
+  c => kj
+  ç => hj
+  ʎ => lj
+  ɲ => nj
   
 </pre>
